@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e; /* Dark blue background */
+    color: white; /* White text */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background: #16213e; /* Slightly lighter dark blue */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 10px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+.question {
+    margin: 20px 0;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white; /* White text */
+}
+
+.btn.green {
+    background-color: #28a745; /* Green button */
+}
+
+.btn.red {
+    background-color: #dc3545; /* Red button */
+}
+
+.btn.blue {
+    background-color: #007bff; /* Blue button */
+}
+
+.btn.purple {
+    background-color: #6f42c1; /* Purple button */
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.hidden {
+    display: none;
+}
+
+.navigation {
+    margin-top: 20px;
+}
