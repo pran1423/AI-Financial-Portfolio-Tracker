@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #000000, #000033);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    margin-bottom: 40px;
+}
+
+.logo img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.logo h1 {
+    color: #4169E1;  /* Royal blue color for FutureSense text */
+    font-size: 2.5em;
+    margin: 10px 0;
+}
+
+.logo p {
+    color: #4169E1;  /* Same blue for tagline */
+    font-size: 1.2em;
+    margin: 10px 0 40px;
+    font-style: italic;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin: 0 auto;
+}
+
+.btn {
+    background-color: #4169E1;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    width: 200px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #2750c4;
+}c
