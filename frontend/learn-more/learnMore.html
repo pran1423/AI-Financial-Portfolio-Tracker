@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn More</title>
+    <link rel="stylesheet" href="learnMore.css" />
+</head>
+<body>
+<div class="container">
+    <h1 class="fade-in">Learn More</h1>
+
+    <p class="fade-in delay-1">
+        Our AI Portfolio Tracker uses machine learning to help investors make smart, real-time decisions.
+        This tool analyzes market trends and portfolio performance, suggesting improvements based on
+        predictive models.
+    </p>
+
+    <ul class="fade-in delay-2">
+        <li>Real-time Portfolio Analysis</li>
+        <li>Machine Learning-Powered Predictions</li>
+        <li>Smart Rebalancing Suggestions</li>
+    </ul>
+
+    <h2 class="fade-in delay-2">Introduction to AI Portfolio Tracking</h2>
+    <div class="video-wrapper fade-in delay-3">
+        <iframe
+                width="100%"
+                height="400"
+                src="https://www.youtube.com/embed/3GmCHRj8oHE?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
+                title="AI Portfolio Intro"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+        ></iframe>
+    </div>
+
+    <h2 class="fade-in delay-2">AI Investing Strategy</h2>
+    <div class="video-wrapper fade-in delay-3">
+        <iframe
+                width="100%"
+                height="400"
+                src="https://www.youtube.com/embed/7ZShAf0I5GU?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
+                title="AI Investing Strategy"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+        ></iframe>
+    </div>
+
+    <h2 class="fade-in delay-2">Future of AI in Finance</h2>
+    <div class="video-wrapper fade-in delay-3">
+        <iframe
+                width="100%"
+                height="400"
+                src="https://www.youtube.com/embed/A7fZp9dwELo?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
+                title="AI in Finance"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+        ></iframe>
+    </div>
+
+    <p class="fade-in delay-4">
+
+    </p>
+</div>
+
+
+<a href="../dashboard/dashboard.html" class="back-button" id="backButton">← Back to Dashboard</a>
+
+<script src="learnMore.js"></script>
+
+<script>
+  const backButton = document.getElementById('backButton');
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 200) {
+      backButton.classList.add('visible');
+    } else {
+      backButton.classList.remove('visible');
+    }
+  });
+</script>
+</body>
+</html>

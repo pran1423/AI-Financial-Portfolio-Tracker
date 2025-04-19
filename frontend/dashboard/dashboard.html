@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Financial Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <!-- Hamburger Button -->
+  <div class="hamburger" onclick="toggleSidebar()">☰</div>
+  <div class="container">
+    <div class="sidebar">
+      <a href="#">Portfolio</a>
+      <a href="../Sentiment/sentiment.html">Sentiment</a>
+      <a href="../recommendations/recommendations.html">Recommendations</a>
+      <a href="../learn-more/learnMore.html">Learn More</a>
+      <a href="../settings/settings.html">Settings</a>
+      <a href="../landing-page/landingPage.html" id="logout">Log out</a>
+    </div>
+    <div class="main">
+      <h2 style="color:white; text-align:center;">Investment Price & Predictions</h2>
+      <div class="line-graph" style="position: relative;">
+        <canvas id="stockChart" height="200"></canvas>
+        <div id="chartLoading" style="position:absolute; top:0; left:0; right:0; bottom:0; display:flex; justify-content:center; align-items:center; color:white; background:rgba(0,0,0,0.5);">
+          Loading chart...
+        </div>
+        <div class="tabs">
+   
+        </div>
+      </div>
+      <h2 style="color:white; text-align:center; margin-top:20px;">Investment Portfolio</h2>
+      <div id="tableLoading" style="text-align:center; color:white; margin-top:10px;">Loading table...</div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Ticker</th>
+            <th>Shares</th>
+            <th>Initial Investment</th>
+            <th>Value Today</th>
+            <th>1M Prediction</th>
+            <th>3M Prediction</th>
+            <th>6M Prediction</th>
+          </tr>
+        </thead>
+        <tbody id="portfolio-body">
+  
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="dashboard.js"></script>
+  <script>
+    function toggleSidebar() {
+      document.querySelector('.container').classList.toggle('sidebar-collapsed');
+      document.querySelector('.sidebar').classList.toggle('collapsed');
+    }
+    document.getElementById('logout').addEventListener('click', () => {
+      // Clear saved email and redirect to landing page
+      localStorage.removeItem('userEmail');
+      window.location.href = '../landing-page/landingPage.html';
+    });
+  </script>
+</body>
+</html>

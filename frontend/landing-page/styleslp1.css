@@ -1,62 +1,173 @@
-body {
+* {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #000000, #000033);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    color: white;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
 }
 
-.container {
-    text-align: center;
-    padding: 20px;
-}
-
-.logo {
-    margin-bottom: 40px;
-}
-
-.logo img {
-    width: 150px;
-    height: auto;
-    margin-bottom: 20px;
-}
-
-.logo h1 {
-    color: #4169E1;  /* Royal blue color for FutureSense text */
-    font-size: 2.5em;
-    margin: 10px 0;
-}
-
-.logo p {
-    color: #4169E1;  /* Same blue for tagline */
-    font-size: 1.2em;
-    margin: 10px 0 40px;
-    font-style: italic;
-}
-
-.buttons {
+body {
+    background: linear-gradient(135deg, #0D0D0D, #1A1A2E);
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
-    margin: 0 auto;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+.news-ticker {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    position: fixed;
+    top: 10px;
+    left: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.news-ticker p {
+    display: inline-block;
+    white-space: nowrap;
+    animation: scrollText 15s linear infinite;
+    color: #A38F5D;
+}
+@keyframes scrollText {
+    from { transform: translateX(0%); } 
+    to { transform: translateX(-100%); }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    margin-top: 100px;
+}
+
+.logo img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 10px;
+    filter: drop-shadow(0px 4px 6px rgba(163, 143, 93, 0.5));
+}
+
+.floating-logo {
+    animation: float 5s infinite ease-in-out;
+}
+
+.logo h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    color: #A38F5D;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    color: #C4B27C;
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-top: 20px;
 }
 
 .btn {
-    background-color: #4169E1;
+    background: #A38F5D;
     color: white;
-    border: none;
-    padding: 12px 30px;
-    border-radius: 5px;
-    font-size: 1em;
+    padding: 14px 36px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
     cursor: pointer;
-    width: 200px;
-    transition: background-color 0.3s;
+    width: 220px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 10px rgba(163, 143, 93, 0.3);
+    display: inline-block;
 }
 
 .btn:hover {
-    background-color: #2750c4;
+    background: #927B4D;
+    box-shadow: 0px 6px 14px rgba(163, 143, 93, 0.6);
+    transform: translateY(-3px);
+}
+.feature-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: -80px;
+    flex-wrap: wrap;
+    max-width: 90vw;
+    padding: 0 10px; 
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    width: 280px;
+    height: 160px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 10px rgba(163, 143, 93, 0.1);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card img {
+    width: 40px;
+    height: auto;
+    margin: 0 auto 5px;
+    filter: brightness(0.8);
+    display: block;
+}
+
+.card h3 {
+    color: #A38F5D;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+.card p {
+    color: #C4B27C;
+    font-size: 0.85rem;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0px 6px 14px rgba(163, 143, 93, 0.3);
+}
+
+@media (max-width: 1024px) {
+    .card {
+        width: calc(45% - 20px);
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+        max-width: 250px;
+    }
+}
+
+
+@keyframes scrollText {
+    from { transform: translateX(100%); }
+    to { transform: translateX(-100%); }
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(10px); }
+    100% { transform: translateY(0px); } 
 }

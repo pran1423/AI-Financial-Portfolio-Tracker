@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FutureSense | Risk Tolerance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <div class="logo">
+        <h1>Risk Tolerance</h1>
+        <p class="subtext">How comfortable are you with investment risk?</p>
+    </div>
+    <div class="risk-options">
+        <button class="risk-btn minimal-risk" onclick="setRiskTolerance('minimal')">Minimal Risk</button>
+        <button class="risk-btn medium-risk" onclick="setRiskTolerance('medium')">Medium Risk</button>
+        <button class="risk-btn high-risk" onclick="setRiskTolerance('high')">High Risk</button>
+    </div>
+    <div class="nav-buttons">
+        <button class="btn prev-btn" onclick="navigateTo('../invest-info/invest-info.html')">Previous</button>
+        <button class="btn next-btn" onclick="navigateTo('../Investment_Preferences/Investment_Preference_Page.html')">Next</button>
+    </div>
+</div>
+<script src="riskTolerance.js"></script>
+</body>
+</html>

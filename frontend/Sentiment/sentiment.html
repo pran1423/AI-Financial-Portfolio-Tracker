@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sentiment Analysis</title>
+  <link rel="stylesheet" href="sentiment.css" />
+</head>
+<body>
+  <!-- Back to Dashboard Button at Top -->
+  <a href="../dashboard/dashboard.html" class="back-button">← Back to Dashboard</a>
+
+  <header class="sentiment-header">
+    <div class="summary-left">
+      <h1>Portfolio Sentiment: <span id="overall-sentiment">N/A</span></h1>
+      <p class="timestamp">Last updated: <span id="timestamp">N/A</span></p>
+    </div>
+    <div class="summary-right">
+      <input type="text" id="tickerInput" placeholder="Enter Ticker (e.g., AAPL)">
+      <button class="refresh-btn" onclick="loadSentimentFromInput()">Load</button>
+    </div>
+  </header>
+
+  <!-- Loading Indicator -->
+  <div id="loadingIndicator" style="display: none; text-align: center; margin: 20px;">
+    <p>Loading sentiment analysis...</p>
+  </div>
+
+  <main class="sentiment-body">
+    <div id="sentiment-cards-container">
+      <!-- Sentiment cards for each ticker will be injected here -->
+    </div>
+  </main>
+
+  <!-- Back to Dashboard Button at Bottom -->
+  <a href="../dashboard/dashboard.html" class="back-button">← Back to Dashboard</a>
+
+  <script src="sentiment.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      initSentimentPage();
+    });
+  </script>
+</body>
+</html>

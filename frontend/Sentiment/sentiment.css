@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  background-color: #0F0F0F;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.back-button,
+.refresh-btn {
+  display: inline-block;
+  margin: 0 8px 0 0;
+  padding: 10px 14px;
+  background-color: #A38F5D;
+  color: #000;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.3s, transform 0.2s;
+  cursor: pointer;
+  border: none;
+}
+
+.back-button:hover,
+.refresh-btn:hover {
+  background-color: #927B4D;
+  transform: scale(1.05);
+}
+
+.sentiment-header {
+  position: sticky;
+  top: 0;
+  background-color: #0F0F0F;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #A38F5D;
+  z-index: 10;
+}
+
+.summary-left h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.timestamp {
+  color: #BBBBBB;
+  font-size: 14px;
+}
+
+.summary-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+
+.sentiment-body {
+  padding: 20px;
+}
+
+.stock-card {
+  margin-bottom: 20px;
+  border: 1px solid #A38F5D;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #111;
+}
+
+.accordion-header {
+  width: 100%;
+  padding: 16px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  background: #1a1a1a;
+  border: none;
+  cursor: pointer;
+}
+
+.accordion-content {
+  display: none;
+  padding: 16px;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.article-card {
+  background: #1a1a1a;
+  padding: 14px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  transition: border 0.3s ease;
+}
+
+.article-card:hover {
+  border: 1px solid #A38F5D;
+}
+
+.article-card h3 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.article-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.bar {
+  height: 6px;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.positive-bar {
+  background: #00C26E;
+}
+
+.negative-bar {
+  background: #FF4F4F;
+}
+
+.neutral-bar {
+  background: #FFA500;
+}
+
+.summary {
+  font-size: 14px;
+  color: #dddddd;
+}
+
+.meta {
+  font-size: 12px;
+  color: #888888;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.positive { color: #00C26E; }
+.negative { color: #FF4F4F; }
+.neutral { color: #FFA500; }
