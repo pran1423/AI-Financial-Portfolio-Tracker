@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FutureSense | Investment Preferences</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+
+    .confirmation-banner {
+      display: none;
+      background-color: #163c28;
+      color: #cceac2;
+      padding: 12px 20px;
+      text-align: center;
+      font-weight: bold;
+      border-bottom: 2px solid #2fa14f;
+      margin-bottom: 20px;
+      transition: all 0.3s ease;
+    }
+    .confirmation-banner.show {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="prefBanner" class="confirmation-banner"></div>
+
+  <div class="container">
+    <div class="logo">
+      <h1>Step 3: Investment Preferences</h1>
+      <p class="subtext">What investment sectors interest you?</p>
+    </div>
+
+    <div class="selected-sectors-container">
+      <div id="selected-sectors"></div>
+    </div>
+
+    <div class="dropdown-container">
+      <select id="sector-dropdown">
+        <option value="" disabled selected>Select a Sector</option>
+        <option value="Biotech">Biotech</option>
+        <option value="Consumer Goods">Consumer Goods</option>
+        <option value="Utilities">Utilities</option>
+        <option value="Automotive">Automotive</option>
+        <option value="Retail">Retail</option>
+        <option value="Semiconductors">Semiconductors</option>
+        <option value="Agriculture">Agriculture</option>
+        <option value="Telecommunications">Telecommunications</option>
+        <option value="Artificial Intelligence">Artificial Intelligence</option>
+        <option value="Cybersecurity">Cybersecurity</option>
+        <option value="Pharmaceuticals">Pharmaceuticals</option>
+        <option value="Entertainment">Entertainment</option>
+        <option value="Aviation">Aviation</option>
+        <option value="Insurance">Insurance</option>
+        <option value="Defense & Military">Defense & Military</option>
+      </select>
+      <button id="add-sector-btn" class="btn">Add</button>
+    </div>
+
+
+    <div class="sector-buttons">
+      <button class="sector-btn" data-sector="Technology">Technology</button>
+      <button class="sector-btn" data-sector="Crypto">Crypto</button>
+      <button class="sector-btn" data-sector="Healthcare">Healthcare</button>
+      <button class="sector-btn" data-sector="Aerospace">Aerospace</button>
+      <button class="sector-btn" data-sector="Real Estate">Real Estate</button>
+      <button class="sector-btn" data-sector="Energy">Energy</button>
+      <button class="sector-btn" data-sector="Finance">Finance</button>
+      <button class="sector-btn" data-sector="Commodities">Commodities</button>
+    </div>
+
+
+    <div class="nav-buttons">
+      <button class="btn prev-btn" onclick="navigateTo('../Risk_Tolerance/RiskTolerance.html')">← Previous</button>
+      <button class="btn next-btn" onclick="submitPreferences()">Next →</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

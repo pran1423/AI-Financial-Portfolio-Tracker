@@ -1,95 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gradient Background with Text and Buttons</title>
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            background: linear-gradient(to bottom, #00008B, #000000);
-            color: white;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            padding-top: 50px; /* Adjust this value to position the text vertically */
-            text-align: center;
-        }
-        .header {
-            font-size: 24px;
-            font-weight: bold;
-        }
-        .subheader {
-            font-size: 18px;
-            margin-top: 10px; /* Adjust this value to position the subheader vertically */
-        }
-        .buttons {
-            margin-top: 20px; /* Adjust this value to position the buttons vertically */
-        }
-        .button {
-            padding: 10px 20px;
-            font-size: 18px;
-            border: none;
-            cursor: pointer;
-            margin: 0 10px;
-            color: white;
-            border-radius: 25px; /* Rounded corners */
-            font-weight: bold;
-            text-transform: uppercase;
-        }
-        .button-yes {
-            background: linear-gradient(to bottom, #069636, #05011E); /* Green gradient */
-        }
-        .button-no {
-            background: linear-gradient(to bottom, #980707, #05011E); /* Updated red gradient */
-        }
-        .hidden {
-            display: none;
-        }
-        .option-buttons {
-            margin-top: 20px; /* Adjust this value to position the option buttons vertically */
-        }
-        .option-button {
-            padding: 10px 20px;
-            font-size: 18px;
-            border: none;
-            cursor: pointer;
-            margin: 0 10px;
-            color: white;
-            border-radius: 25px; /* Rounded corners */
-            font-weight: bold;
-            text-transform: uppercase;
-            background: linear-gradient(to bottom, #180584, #05011E); /* Updated blue gradient */
-        }
-    </style>
-    <script>
-        function showYesOptions() {
-            document.getElementById('yes-options').classList.remove('hidden');
-            document.getElementById('no-options').classList.add('hidden');
-        }
-        function showNoOptions() {
-            document.getElementById('no-options').classList.remove('hidden');
-            document.getElementById('yes-options').classList.add('hidden');
-        }
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>FutureSense | Add Investments</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div>
-    <div class="header">STEP 1: INVESTMENT INFORMATION</div>
-    <div class="subheader">Do you already have investments?</div>
-    <div class="buttons">
-        <button class="button button-yes" onclick="showYesOptions()">Yes</button>
-        <button class="button button-no" onclick="showNoOptions()">No</button>
+  <div class="container">
+    <div class="logo">
+      <h1>Enter Your Investments</h1>
+      <p class="subtext">Add your existing investments below.</p>
     </div>
-    <div id="yes-options" class="hidden option-buttons">
-        <button class="option-button">Connect Brokerage Accounts</button>
-        <button class="option-button">Manually Enter Investments</button>
+
+    <div class="investment-form">
+      <div class="form-header">
+        <h2>Investment Details</h2>
+        <span class="tooltip-icon" onclick="openTooltip()">?</span>
+      </div>
+
+      <div class="form-group" style="position:relative;">
+        <label for="ticker">Stock Ticker</label>
+        <input type="text" id="ticker" placeholder="Start typing…">
+        <div id="ticker-suggestions" class="suggestions hidden"></div>
+      </div>
+
+      <div class="form-group">
+        <label for="purchase-date">Date Purchased</label>
+        <input type="date" id="purchase-date">
+      </div>
+
+      <div class="form-group">
+        <label for="total-invested">Total Shares Bought</label>
+        <input type="number" id="total-invested" placeholder="Enter number of shares">
+      </div>
+
+      <div class="form-group">
+        <label for="share-price">Share Price</label>
+        <input type="number" id="share-price" placeholder="Auto-filled or edit manually">
+      </div>
+
+      <button id="investment-btn" class="btn" onclick="addOrUpdateInvestment()">Add Investment</button>
     </div>
-    <div id="no-options" class="hidden option-buttons">
-        <button class="option-button">Enter Demo Investments</button>
+
+    <div class="investment-list">
+      <h2>Investments Added</h2>
+      <ul id="investment-display"></ul>
     </div>
-</div>
+
+    <p id="continue-error" class="error-message hidden">
+      Please add at least one investment before continuing.
+    </p>
+    <button class="btn continue-btn" onclick="checkAndNavigate()">Continue</button>
+  </div>
+
+  <span class="tooltip-icon" onclick="openTooltip()">?</span>
+  <div id="modal-overlay" class="modal-overlay"></div>
+  <div id="tooltip-modal" class="modal">
+    <span class="close-btn" onclick="closeTooltip()">✖</span>
+    <p>
+      You don’t need real investments! Enter dummy values to see how investments grow and learn more.
+    </p>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

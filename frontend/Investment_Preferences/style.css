@@ -1,0 +1,223 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+}
+
+
+body {
+    background: linear-gradient(135deg, #0D0D0D, #1A1A2E);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+    padding-bottom: 50px;
+    width: 80%;
+    max-width: 600px;
+}
+
+.logo h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #A38F5D;
+}
+
+.subtext {
+    font-size: 1rem;
+    color: #C4B27C;
+    margin-bottom: 25px;
+}
+
+.selected-sectors-container {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 10px;
+    margin-bottom: 20px; 
+}
+
+.selected-sector {
+    background: #A38F5D;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.remove-btn {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.remove-btn:hover {
+    color: #C4B27C;
+}
+
+.dropdown-container {
+    display: flex;
+    gap: 10px;
+    margin: 15px 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    background: rgba(10, 10, 15, 0.9); 
+    border: 1px solid #A38F5D; 
+    padding: 12px;
+    border-radius: 8px;
+    color: #C4B27C; 
+    font-size: 1rem;
+    width: 70%;
+    text-align: center;
+    max-height: 250px;
+    overflow-y: auto;
+    appearance: none; 
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+
+select:hover, select:focus {
+    border-color: #C4B27C; 
+    background: rgba(20, 20, 30, 0.95); 
+}
+
+
+option {
+    background: #0D0D0D; 
+    color: #A38F5D; 
+    padding: 10px;
+}
+
+
+select:focus option:checked {
+    background: rgba(163, 143, 93, 0.3); 
+    color: white; 
+}
+
+.dropdown-container select {
+    flex-grow: 1;
+    max-width: 300px; 
+}
+
+.dropdown-container .btn {
+    min-width: 90px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sector-buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 15px;
+    max-width: 650px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+
+.sector-btn {
+    background: rgba(255, 255, 255, 0.1);
+    color: #A38F5D;
+    border: none;
+    padding: 14px 20px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 10px rgba(163, 143, 93, 0.3);
+    width: 150px;
+    height: 60px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: normal;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+
+.sector-btn span {
+    display: block;
+    text-align: center;
+    max-width: 130px;
+    word-wrap: break-word;
+}
+
+.sector-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    transform: scale(1.02);
+}
+
+.sector-btn.selected {
+    box-shadow: 0px 0px 15px rgba(163, 143, 93, 0.8);
+    transform: scale(1.03);
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.btn {
+    background: #A38F5D; 
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    border: none;
+    box-shadow: 0px 4px 10px rgba(163, 143, 93, 0.3);
+}
+
+.btn:hover {
+    background: #927B4D;
+    transform: translateY(-3px);
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 30px;
+}

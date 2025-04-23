@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FutureSense | Terms & Conditions</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .confirmation-banner {
+      display: none;
+      background-color: #163c28;
+      color: #cceac2;
+      padding: 12px 20px;
+      text-align: center;
+      font-weight: bold;
+      border-bottom: 2px solid #2fa14f;
+    }
+    .confirmation-banner.show {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="banner" class="confirmation-banner"></div>
+
+  <div class="terms-container">
+    <h1>Terms and Conditions</h1>
+    <p class="italic">Please review the following terms before continuing.</p>
+    <div class="terms-content">
+      <p>By using FutureSense, you agree to these Terms. The platform provides financial data and analytics for informational purposes only and does not offer financial, legal, or investment advice. Users must conduct their own research before making investment decisions.</p>
+      <p>To use FutureSense, you must be at least 18 years old and are responsible for maintaining account security. Data provided may come from third-party sources, and we do not guarantee accuracy.</p>
+      <p>Investing involves risks, including potential loss of capital. FutureSense is not liable for any financial losses incurred. Some features may require payment, and fees may change over time. Refunds are subject to our refund policy.</p>
+      <p>Unauthorized activities, including fraudulent behavior, data scraping, or legal violations, will result in account suspension. Access to FutureSense and its content belongs to FutureSense or its licensors. Unauthorized reproduction or use is prohibited.</p>
+      <p>We reserve the right to modify these Terms at any time. Continued use of FutureSense constitutes acceptance of the updated Terms. This agreement is governed by the laws of the United States.</p>
+      <p>For any inquiries, please contact us at <span class="contact-email">support@futuresense.com</span>.</p>
+    </div>
+    <button id="approveBtn" class="btn">Approve</button>
+  </div>
+
+  <script>
+    const banner = document.getElementById('banner');
+    const approveBtn = document.getElementById('approveBtn');
+
+    approveBtn.addEventListener('click', async () => {
+      const email = localStorage.getItem('userEmail');
+      if (!email) {
+        banner.textContent = 'No account found. Please create an account first.';
+        banner.classList.add('show');
+        return;
+      }
+
+      try {
+        const res = await fetch('http://localhost:3000/api/user/approve-terms', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email })
+        });
+        const result = await res.json();
+
+        if (res.ok) {
+          banner.textContent = '✅ Terms approved successfully!';
+          banner.classList.add('show');
+          setTimeout(() => {
+            window.location.href = '../investment-info-page/invest-info.html';
+          }, 1500);
+        } else {
+          banner.textContent = '❌ ' + (result.error || 'Error approving terms.');
+          banner.classList.add('show');
+        }
+      } catch (err) {
+        console.error('Error:', err);
+        banner.textContent = '❌ Something went wrong. Please try again.';
+        banner.classList.add('show');
+      }
+    });
+  </script>
+</body>
+</html>

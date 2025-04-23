@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+  background: linear-gradient(to bottom, #000000, #000000);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  transition: margin-left 0.3s ease;
+}
+
+/* 🔘 Hamburger menu styles */
+.hamburger {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 28px;
+  color: #A38F5D;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.sidebar.collapsed {
+  transform: translateX(-100%);
+}
+
+.container.sidebar-collapsed .main {
+  margin-left: 0;
+  width: 100%;
+}
+
+.sidebar {
+  width: 300px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 80px;
+  transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+  position: relative;
+  z-index: 1000;
+}
+
+
+.sidebar form {
+  margin-bottom: 20px;
+  margin-top: 60px; 
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.sidebar a {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+  display: block;
+  margin: 20px 0;
+  position: relative;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.sidebar a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 2px;
+  background-color: #A38F5D;
+  transition: width 0.3s ease;
+}
+
+.sidebar a:hover {
+  color: #A38F5D;
+  transform: translateX(5px);
+}
+
+.sidebar a:hover::after {
+  width: 100%;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  transition: width 0.3s ease;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.line-graph {
+  height: 300px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-bottom: 35px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.tab {
+  background: #A38F5D;
+  padding: 5px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s;
+}
+
+.tab:hover {
+  background: #927B4D;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #A38F5D;
+  padding: 10px;
+  text-align: left;
+}
+
+.table th {
+  background: rgba(255, 255, 255, 0.1);
+}

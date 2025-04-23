@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Settings</title>
+  <link rel="stylesheet" href="settings.css" />
+  <style>
+    #settingsBanner {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      background-color: #163c28;
+      color: #cceac2;
+      padding: 12px;
+      text-align: center;
+      font-weight: bold;
+      border-bottom: 2px solid #2fa14f;
+      z-index: 1000;
+      transition: transform 0.3s ease;
+      transform: translateY(-100%);
+    }
+    #settingsBanner.show {
+      display: block;
+      transform: translateY(0);
+    }
+    #settingsBanner.error {
+      background-color: #5c0f0f;
+      border-color: #a14f4f;
+    }
+  </style>
+</head>
+<body>
+  <div id="settingsBanner"></div>
+
+  <div class="settings-container">
+    <h1 class="settings-title">Settings</h1>
+    <p class="settings-subtitle">Manage your investment preferences</p>
+
+    <!-- Stock Preferences -->
+    <section class="settings-section">
+      <h2>Stock Preferences</h2>
+      <div class="settings-group">
+        <div class="autocomplete">
+          <input
+            type="text"
+            id="stock-input"
+            placeholder="Symbol (e.g. AAPL)"
+            class="settings-input"
+          />
+          <div id="stock-suggestions" class="suggestions hidden"></div>
+        </div>
+        <input
+          type="date"
+          id="investment-date"
+          class="settings-input"
+        />
+        <input
+          type="number"
+          step="any"
+          id="share-amount"
+          placeholder="Shares Bought"
+          class="settings-input"
+        />
+        <input
+          type="text"
+          id="share-price"
+          placeholder="Price"
+          class="settings-input"
+        />
+        <button class="settings-btn" onclick="saveStock()">Save</button>
+      </div>
+      <div id="selected-stocks" class="selected-sectors"></div>
+    </section>
+
+    <!-- Sectors -->
+    <section class="settings-section">
+      <h2>Preferred Sectors</h2>
+      <div class="settings-group">
+        <select id="sector-select" class="settings-select">
+          <option disabled selected>Select a Sector</option>
+          <option>Biotech</option>
+          <option>Consumer Goods</option>
+          <option>Utilities</option>
+          <option>Automotive</option>
+          <option>Semiconductors</option>
+          <option>Agriculture</option>
+          <option>Telecommunications</option>
+          <option>Pharmaceuticals</option>
+          <option>Entertainment</option>
+          <option>Cybersecurity</option>
+          <option>Retail</option>
+          <option>Investment Firms</option>
+          <option>Commodities</option>
+          <option>Industrials</option>
+          <option>Aerospace & Defense</option>
+          <option>Communication</option>
+        </select>
+        <button class="settings-btn" onclick="addSector()">Add</button>
+      </div>
+      <div id="selected-sectors" class="selected-sectors"></div>
+      <div class="sector-buttons">
+        <button onclick="addSectorFromButton('Technology')" class="sector-btn">Technology</button>
+        <button onclick="addSectorFromButton('Finance')" class="sector-btn">Finance</button>
+        <button onclick="addSectorFromButton('Energy')" class="sector-btn">Energy</button>
+        <button onclick="addSectorFromButton('Real Estate')" class="sector-btn">Real Estate</button>
+        <button onclick="addSectorFromButton('Insurance')" class="sector-btn">Insurance</button>
+        <button onclick="addSectorFromButton('Media')" class="sector-btn">Media</button>
+        <button onclick="addSectorFromButton('Materials')" class="sector-btn">Materials</button>
+      </div>
+    </section>
+
+    <!-- Risk Preference -->
+    <section class="settings-section">
+      <h2>Risk Preference</h2>
+      <div class="settings-group">
+        <select id="risk-select" class="settings-select">
+          <option disabled selected>Select Risk Level</option>
+          <option>minimal risk</option>
+          <option>medium risk</option>
+          <option>high risk</option>
+        </select>
+        <button class="settings-btn" onclick="addRisk()">Save Risk Level</button>
+      </div>
+      <div id="selected-risk" class="selected-sectors"></div>
+    </section>
+
+    <!-- Save All -->
+    <div class="settings-actions">
+      <button class="settings-btn" onclick="saveAll()">Save Changes</button>
+      <a href="../dashboard/dashboard.html" class="back-link">← Back to Dashboard</a>
+    </div>
+  </div>
+
+  <script src="settings.js"></script>
+</body>
+</html>

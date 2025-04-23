@@ -1,46 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FutureSense Login</title>
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        .form-group {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px; /* Adjust this value to increase/decrease spacing */
-        }
-        .form-group label {
-            width: 100px; /* Adjust this value to set the label width */
-            margin-right: 10px; /* Adjust this value to set the space between label and input */
-        }
-        .btn {
-            margin-top: 20px; /* Adjust this value to increase/decrease spacing */
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FutureSense | Login</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="container">
-    <div class="logo">
-        <img src="../landing-page/futuresensemainlogo.png" alt="FutureSense Logo">
-        <h1>FutureSense</h1>
-        <p>AI-driven insights for a better tomorrow</p>
-    </div>
-    <div class="buttons">
-        <form>
-            <div class="form-group">
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="password">Password:</label>
-                <input type="password" id="password" name="password" required>
-            </div>
-            <button type="submit" class="btn">Login</button>
-        </form>
-        <p>Don't have an account? <a href="../create-account/create-account.html">Create your account</a></p>
-    </div>
+  <div class="logo">
+    <img src="../landing-page/futuresensemainlogo.png" alt="FutureSense Logo" class="floating-logo">
+    <h1>FutureSense</h1>
+    <p class="tagline">LOGIN</p>
+  </div>
+
+  <div class="form-container">
+    <p id="error-message" class="error-message"></p>
+    <form id="loginForm">
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter your password" required>
+      </div>
+      <button type="submit" class="btn">Login</button>
+    </form>
+    <p class="signup-link">Don't have an account? <a href="../create-account/create-account.html">Create one</a></p>
+  </div>
 </div>
+<script src="scripts.js"></script>
 </body>
 </html>

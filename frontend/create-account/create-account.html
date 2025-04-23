@@ -1,50 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FutureSense Create Account</title>
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        .form-group {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px; /* Adjust this value to increase/decrease spacing */
-        }
-        .form-group label {
-            width: 150px; /* Adjust this value to set the label width */
-            margin-right: 10px; /* Adjust this value to set the space between label and input */
-        }
-        .btn {
-            margin-top: 20px; /* Adjust this value to increase/decrease spacing */
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FutureSense | Create Account</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="container">
+  <div class="container">
     <div class="logo">
-        <img src="../landing-page/futuresensemainlogo.png" alt="FutureSense Logo">
-        <h1>FutureSense</h1>
-        <p>AI-driven insights for a better tomorrow</p>
+      <img src="../landing-page/futuresensemainlogo.png" alt="FutureSense Logo" class="floating-logo">
+      <h1>FutureSense</h1>
+      <p class="tagline">CREATE AN ACCOUNT</p>
     </div>
-    <div class="buttons">
-        <form id="createAccountForm">
-            <div class="form-group">
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="password">Password:</label>
-                <input type="password" id="password" name="password" required>
-            </div>
-            <div class="form-group">
-                <label for="confirm-password">Confirm Password:</label>
-                <input type="password" id="confirm-password" name="confirm-password" required>
-            </div>
-            <button type="button" class="btn" onclick="window.location.href='../Terms and conditions/terms-cond.html'">Create Account</button>
-        </form>
+    <div class="form-container">
+      <form id="createAccountForm">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" placeholder="Create a password" required>
+        </div>
+        <div class="form-group">
+          <label for="confirm-password">Confirm Password</label>
+          <input type="password" id="confirm-password" name="confirm-password" placeholder="Re-enter password" required>
+        </div>
+  
+        <p id="password-feedback" style="color: #D32F2F; font-size: 0.9rem; margin-bottom: 1rem;"></p>
+        <button type="submit" class="btn">Create Account</button>
+      </form>
+      <p class="login-link">
+        Already have an account? <a href="../login-page/login.html">Log in</a>
+      </p>
     </div>
-</div>
-<script src="createAccount.js"></script>
+  </div>
+  <script src="createAccount.js"></script>
 </body>
 </html>
