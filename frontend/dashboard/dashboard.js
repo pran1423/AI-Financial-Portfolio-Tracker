@@ -43,7 +43,7 @@ async function loadUserInvestments() {
   document.getElementById('tableLoading').style.display = 'block';
 
   try {
-    const resp = await fetch(`http://localhost:3000/api/user/investments?email=${email}`);
+    const resp = await fetch(`/api/user/investments?email=${email}`);
     const { investments } = await resp.json();
     if (!investments || !investments.length) return console.log("No investments.");
     investmentsList = investments;
@@ -72,7 +72,7 @@ function populateInvestmentTabs(invs) {
 // fetch live price
 async function getLivePrice(ticker) {
   try {
-    const res = await fetch(`http://localhost:3000/api/user/current-price?ticker=${ticker}`);
+    const res = await fetch(`/api/user/current-price?ticker=${ticker}`);
     const { currentPrice } = await res.json();
     return currentPrice;
   } catch {
@@ -90,7 +90,7 @@ async function updateChart(ticker) {
     const livePrice = await getLivePrice(ticker);
 
     // fetch predictions
-    const pRes = await fetch(`http://localhost:3000/api/predictions?ticker=${ticker}`);
+    const pRes = await fetch(`/api/predictions?ticker=${ticker}`);
     const pData = await pRes.json();
     const P = pData.predictions ||
       { "1M": pData["1M"], "3M": pData["3M"], "6M": pData["6M"] };
@@ -194,7 +194,7 @@ async function updatePortfolioTable(investments) {
 
     let p1='N/A', p3='N/A', p6='N/A';
     try {
-      const pr = await fetch(`http://localhost:3000/api/predictions?ticker=${t}`);
+      const pr = await fetch(`/api/predictions?ticker=${t}`);
       const { predictions, "1M":a,"3M":b,"6M":c } = await pr.json();
       const P = predictions || {"1M":a,"3M":b,"6M":c};
       if (P["1M"]) p1 = `$${(shares*P["1M"].median).toFixed(2)}`;

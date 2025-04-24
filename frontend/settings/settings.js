@@ -23,7 +23,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   // fetch all tickers
   try {
-    const res = await fetch("http://localhost:3000/api/tickers");
+    const res = await fetch("/api/tickers");
     const data = await res.json();
     tickerOptions = data.tickers || [];
   } catch (err) {
@@ -36,7 +36,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   // investments
   try {
-    const invRes = await fetch(`http://localhost:3000/api/user/investments?email=${email}`);
+    const invRes = await fetch(`/api/user/investments?email=${email}`);
     const invData = await invRes.json();
     selectedStocks = invData.investments.map(i => ({
       symbol: i.ticker,
@@ -48,7 +48,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   //preferences + risk
   try {
-    const prefRes = await fetch(`http://localhost:3000/api/user/get?email=${email}`);
+    const prefRes = await fetch(`/api/user/get?email=${email}`);
     const prefData = await prefRes.json();
     selectedSectors = prefData.user.investmentPreferences || [];
     selectedRisk    = prefData.user.riskTolerance || null;
@@ -100,7 +100,7 @@ async function tryFetchPrice() {
   const dt  = dateInput.value;
   if (!sym||!dt||priceInput.value) return;
   try {
-    const r = await fetch(`http://localhost:3000/api/user/historical-price?ticker=${sym}&date=${dt}`);
+    const r = await fetch(`/api/user/historical-price?ticker=${sym}&date=${dt}`);
     const j = await r.json();
     if (j.price!=null) priceInput.value = j.price.toFixed(2);
   } catch(err){ console.error(err) }
@@ -222,7 +222,7 @@ async function saveAll(){
   if (!email) return alert("Please log in.");
 
   try {
-    await fetch("http://localhost:3000/api/user/invest-info", {
+    await fetch("/api/user/invest-info", {
       method:"POST",
       headers:{"Content-Type":"application/json"},
       body: JSON.stringify({
@@ -235,12 +235,12 @@ async function saveAll(){
         }))
       })
     });
-    await fetch("http://localhost:3000/api/user/investment-preferences", {
+    await fetch("/api/user/investment-preferences", {
       method:"POST",
       headers:{"Content-Type":"application/json"},
       body: JSON.stringify({ email, preferences: selectedSectors })
     });
-    await fetch("http://localhost:3000/api/user/risk-tolerance", {
+    await fetch("/api/user/risk-tolerance", {
       method:"POST",
       headers:{"Content-Type":"application/json"},
       body: JSON.stringify({ email, riskTolerance: selectedRisk })

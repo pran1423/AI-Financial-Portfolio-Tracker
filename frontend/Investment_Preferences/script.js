@@ -90,7 +90,7 @@ async function submitPreferences() {
   }
 
   try {
-    const res = await fetch('http://localhost:3000/api/user/investment-preferences', {
+    const res = await fetch('/api/user/investment-preferences', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, preferences: selectedSectors })

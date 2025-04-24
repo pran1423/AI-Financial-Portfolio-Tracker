@@ -32,7 +32,7 @@ document.getElementById('createAccountForm').addEventListener('submit', async fu
   }
 
   try {
-    const response = await fetch('http://localhost:3000/api/auth/create-account', {
+    const response = await fetch('/api/auth/create-account', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, password, confirmPassword }),

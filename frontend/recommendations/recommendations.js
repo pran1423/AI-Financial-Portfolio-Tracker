@@ -9,7 +9,7 @@ async function loadRecommendations() {
   sectionsContainer.innerHTML = "<p>Loading recommendations...</p>";
 
   try {
-    const response = await fetch(`http://localhost:3000/api/recommendations?email=${encodeURIComponent(email)}`);
+    const response = await fetch(`/api/recommendations?email=${encodeURIComponent(email)}`);
     const data = await response.json();
 
     if (data.error) {

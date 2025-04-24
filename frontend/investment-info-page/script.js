@@ -18,7 +18,7 @@ window.addEventListener("DOMContentLoaded", () => {
   dateInput.setAttribute("max", today);
 
   // fetch valid tickers from backend
-  fetch("http://localhost:3000/api/tickers")
+  fetch("/api/tickers")
     .then(r => r.json())
     .then(data => { tickerOptions = data.tickers || []; })
     .catch(err => console.error("Could not load tickers:", err));
@@ -65,7 +65,7 @@ function tryFetchPrice() {
   const date   = dateInput.value;
   if (!ticker || !date || priceInput.value) return;
 
-  fetch(`http://localhost:3000/api/user/historical-price?ticker=${ticker}&date=${date}`)
+  fetch(`/api/user/historical-price?ticker=${ticker}&date=${date}`)
     .then(r => r.json())
     .then(json => {
       if (json.price != null) priceInput.value = json.price.toFixed(2);
@@ -162,7 +162,7 @@ function checkAndNavigate(){
   const email = localStorage.getItem('userEmail') || 'test@example.com';
 
   // POST to your backend
-  fetch('http://localhost:3000/api/user/invest-info', {
+  fetch('/api/user/invest-info', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ email, investments })

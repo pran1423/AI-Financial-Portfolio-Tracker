@@ -14,7 +14,7 @@ document.querySelectorAll(".risk-btn").forEach(button => {
 
     // Send the selected risk level to the backend
     try {
-      const response = await fetch('http://localhost:3000/api/user/risk-tolerance', {
+      const response = await fetch('/api/user/risk-tolerance', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, riskTolerance: riskLevel })

@@ -8,7 +8,7 @@ function loadSentimentForTicker(stockSymbol, cardElement) {
   const contentArea = cardElement.querySelector('.accordion-content');
   contentArea.innerHTML = "<p>Loading sentiment...</p>";
 
-  fetch(`http://localhost:3000/api/sentiment?stock=${stockSymbol}`)
+  fetch(`/api/sentiment?stock=${stockSymbol}`)
     .then(response => response.json())
     .then(data => {
       contentArea.innerHTML = "";
@@ -100,7 +100,7 @@ function loadSentimentsForInvestments() {
     return;
   }
   
-  fetch(`http://localhost:3000/api/user/investments?email=${email}`)
+  fetch(`/api/user/investments?email=${email}`)
     .then(response => response.json())
     .then(data => {
       container.innerHTML = ""; 
