@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:39:49.966875",
+    "overall_sentiment": "Positive",
+    "total_score": 0.5145,
+    "articles": [
+        {
+            "title": "Is Broadcom Inc. (AVGO) the Best Nancy Pelosi Stock To Invest In Now?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7e4755e5-b8d9-4fa8-b823-668dedb8f8cf",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T17:09:10Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Broadcom (AVGO) Fell Due to Investors\u2019 Concerns",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0e6d937c-264b-49e9-84da-14c938484f35",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T14:30:53Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9711
+        },
+        {
+            "title": "Broadcom Inc. (AVGO) Unveils AI-Powered Cybersecurity Tool to Predict and Prevent Attacks",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eb3d4383-8119-4814-bac8-76aa489453c4",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T07:44:12Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.5698
+        },
+        {
+            "title": "Is Broadcom Inc. (AVGO) the Most Promising Long-Term Stock According to Analysts?",
+            "description": "We recently published a list of the 11 Most Promising Long-Term Stocks According to Analysts. In this article, we are going to take a look at where Broadcom ...",
+            "url": "https://finance.yahoo.com/news/broadcom-inc-avgo-most-promising-042510618.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T04:25:10Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Is Broadcom Inc. (AVGO) the Best Stock to Buy According to Billionaire Chris Rokos?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ece645f3-4c9f-47cb-a582-99230443b96a",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-21T20:58:08Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Is Broadcom Inc. (AVGO) the Best Long Term Stock to Buy According to Billionaires?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c5a6f0de-844f-4220-a431-6be49cc15868",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-18T14:28:34Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Is Broadcom Inc. (AVGO) the Best Blue Chip Stock to Buy According to Billionaires?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b37fe9eb-f6c2-47e6-a95d-044466310c7f",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-16T19:16:23Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Veteran Analyst Is Bullish on NVDA, MSFT, AVGO",
+            "description": "In This Article:\nDespite the stock market's current volatility, the longer-term outlook of technology is bright because large companies are going to invest in AI in order to reduce their costs and grow, Daniel Newman, the CEO of the Futurum Group told Schwab \u2026",
+            "url": "https://biztoc.com/x/73870383e91db298",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-16T17:48:55Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9158
+        },
+        {
+            "title": "Veteran Analyst Is Bullish on NVDA, MSFT, AVGO",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c59fdf7c-1daa-474e-bf92-f026c295ffa3",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-16T17:40:09Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer: Broadcom (AVGO) Needs \u201cRecognition\u201d Beyond the White House\u2014\u201cOrders Are Good\u201d",
+            "description": "In This Article:\nWe recently published a list of Jim Cramer Sounds the Alarm on China Rhetoric and Dollar Panic Then Analyzes 11 Key Stocks. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other key stocks that\u2026",
+            "url": "https://biztoc.com/x/71f059fa6d959193",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-16T13:44:44Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

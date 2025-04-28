@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T01:49:27.116060",
+    "overall_sentiment": "Negative",
+    "total_score": -0.8471,
+    "articles": [
+        {
+            "title": "Jim Cramer Urges Caution on NVIDIA Corporation (NVDA): \u2018Don\u2019t Trade It, But Don\u2019t Abandon It\u2019",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_465e1d14-57ee-4e61-96b6-cb990240e2fc",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-24T00:49:04Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Barclays Just Slashed Its Nvidia Price Target. How Should You Play NVDA Here?",
+            "description": "",
+            "url": "https://biztoc.com/x/f9c7e8255596934c",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T20:24:47Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Ultimate Insider Marjorie Taylor Greene\u2019s #3 Stock Pick: NVIDIA Corporation (NVDA)",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c7ac393a-994a-4470-8287-35d91dd0810e",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T18:34:19Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Why Two CNBC Panelists Were Very Bearish on Nvidia (NVDA) Stock",
+            "description": "In This Article:\nTwo investors who appeared together on an episode of CNBC's Fast Money last week both expressed pessimism about Nvidia (NVDA) stock and urged investors to sell the shares of the chip maker. Guy Adami and Dan Nathan both had very negative take\u2026",
+            "url": "https://biztoc.com/x/a55c146b8d37650f",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T16:54:17Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.8972
+        },
+        {
+            "title": "Why Two CNBC Panelists Were Very Bearish on Nvidia (NVDA) Stock",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba7ad381-9525-4e40-a130-35af7444ba21",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T16:39:22Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.6418
+        },
+        {
+            "title": "NVIDIA Corporation (NVDA): Among Stocks That Could 10X Over the Next 2 Years",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6de45c50-0cfa-45ad-ad64-806e35c456d1",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T22:30:43Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.698
+        },
+        {
+            "title": "Nvidia (NVDA) Stock Identified as Top AI Stock by Veteran Investor",
+            "description": "Doug Clinton, the CEO of Intelligent Alpha, told CNBC recently that Nvidia (NVDA) is his \u201ctop AI pick.\u201d Intelligent Alpha uses AI to create its stock...",
+            "url": "https://finance.yahoo.com/news/nvidia-nvda-stock-identified-top-180624372.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T18:06:24Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "NVIDIA (NVDA) Maintains Positive Momentum Despite China Export Restrictions, Says Susquehanna",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c40b47c9-53b5-4398-80c2-91bba75017e9",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T17:40:29Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9534
+        },
+        {
+            "title": "NVIDIA (NASDAQ: NVDA) Price Prediction and Forecast 2025-2030 for April 22",
+            "description": "Shares of NVIDIA Corp. (NASDAQ: NVDA) were flat during a.m. trading on Tuesday as investors hoped the chipmaker would begin clawing its way back from Monday\u2019s loss of more than -4%. The stock has now seen a year-to-date loss of more than -28%, reducing its on\u2026",
+            "url": "https://biztoc.com/x/1b313d3b49da9a8a",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-22T16:53:49Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9596
+        },
+        {
+            "title": "Is NVIDIA (NVDA) the Most Promising Long-Term Stock According to Analysts?",
+            "description": "We recently published a list of the 11 Most Promising Long-Term Stocks According to Analysts. In this article, we are going to take a look at where NVIDIA...",
+            "url": "https://finance.yahoo.com/news/nvidia-nvda-most-promising-long-145923660.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T14:59:23Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:46:35.535544",
+    "overall_sentiment": "Positive",
+    "total_score": 0.2224,
+    "articles": [
+        {
+            "title": "The Summer-Ready Style Edit from Nordstrom",
+            "description": "Outfit Details: Zimmermann Pants, similar top, similar bag Thank you to Nordstrom for sponsoring this post. Summer is nearly here,\u2026\nThe post The Summer-Ready Style Edit from Nordstrom appeared first on Julia Berolzheimer.",
+            "url": "https://juliaberolzheimer.com/2025/04/the-summer-ready-style-edit-from-nordstrom/",
+            "source": "Juliaberolzheimer.com",
+            "publishedAt": "2025-04-24T04:00:03Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Mint Quick Edit | After the Greenspan put, the Powell stay-put",
+            "description": "To the relief of markets, Trump said he doesn\u2019t intend to fire the Federal Reserve chief. Is this because the US president changed his mind, the law won\u2019t let him or a fall-guy is needed for an economic slowdown?",
+            "url": "https://www.livemint.com/opinion/online-views/trump-jerome-powell-conflict-federal-reserve-independence-us-interest-rate-cuts-us-recession-fears-monetary-policy-fed-11745421257617.html",
+            "source": "Livemint",
+            "publishedAt": "2025-04-24T01:30:07Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.7183
+        },
+        {
+            "title": "FastScripts 3.3.7: Edit Script Improvements",
+            "description": "FastScripts 3.3.7 is now available on the FastScripts home page, or by selecting \u201cCheck for Update\u201d from the FastScripts menu. This update extends the sometimes overlooked, but very handy, feature whereby holding the Option key down while selecting a script c\u2026",
+            "url": "https://redsweater.com/blog/4203/fastscripts-3-3-7-edit-script-improvements",
+            "source": "Redsweater.com",
+            "publishedAt": "2025-04-23T21:11:43Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "folio-user-bulk-edit added to PyPI",
+            "description": "Initiates, monitors, and reports on bulk user operations in FOLIO.",
+            "url": "https://pypi.org/project/folio-user-bulk-edit/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-23T14:06:11Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Show HN: Node.js video tutorials where you can edit and run the code",
+            "description": "Hey HN,I'm Sindre, CTO of Scrimba (YC S20). We originally launched Scrimba to make video learning more interactive for aspiring frontend developers. So instead of passively watching videos, you can jump in an experiment with the code directly inside the video\u2026",
+            "url": "https://news.ycombinator.com/item?id=43771365",
+            "source": "Hacker News",
+            "publishedAt": "2025-04-23T12:35:49Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Mint Quick Edit | Gold: Eternal glitter?",
+            "description": "The precious metal has crossed  \u20b9100,000 per 10gm and its sheen doesn\u2019t seem to dim. Global economic uncertainty has a big role in the appeal of gold, but for how long will it keep investors dazzled?",
+            "url": "https://www.livemint.com/opinion/online-views/gold-price-india-gold-hits-100000-gold-investment-india-gold-as-store-of-value-uday-kotak-gold-quote-sridhar-vembu-gold-11745332943043.html",
+            "source": "Livemint",
+            "publishedAt": "2025-04-23T01:30:05Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Virtual Library Not Refreshing After Metadata Edit",
+            "description": "Occasionally I use a Virtual Library in Calibre to help manage books that need updating. For example, I have a custom column for StoryGraph format {#sg_format}, and a Virtual Library set to show only books where that column is set to \"Audio.\"\n\nThe issue I\u0092m h\u2026",
+            "url": "https://www.mobileread.com/forums/showthread.php?s=c3a57566f47784e3bf557c21a4b7fbf4&p=4507045#post4507045",
+            "source": "Mobileread.com",
+            "publishedAt": "2025-04-22T19:23:39Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "The Daily Edit \u2013 Aidan Klimenko talks about \u201cwins\u201d or \u201csuccesses\u201d stemming from work personal work.",
+            "description": "Aidan Klimenko Heidi: Your work has an impressive range \u2013 it would be hard to categorize. You mentioned your work asks questions. What questions you thinking about in your recent personal work. Aidan: I\u2019ve always been drawn to photography because I\u2019ve seen it\u2026",
+            "url": "https://www.aphotoeditor.com/2025/04/22/the-daily-edit-aidan-klimenko-talks-about-wins-or-successes-stemming-from-work-personal-work/",
+            "source": "Aphotoeditor.com",
+            "publishedAt": "2025-04-22T14:49:47Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Ticket #63326 (Edit Site no longer directly opens Template editing) created",
+            "description": "ISSUE:\nWhen viewing a post, page or archive, clicking \"Edit Site\" in the Admin bar used to open the related Template directly, ready for editing.\n\n\nRESULT:\nIn 6.8, the above click of \"Edit Site\" just opens the first page of \"Appearance -> Editor\"\n\n\nWHY IT'S A\u2026",
+            "url": "https://core.trac.wordpress.org/ticket/63326",
+            "source": "Wordpress.org",
+            "publishedAt": "2025-04-22T02:43:05Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Head: Mint Quick Edit | Stock market recovery: Are bulls stirring?",
+            "description": "Indian stock market indices have seen notable gains over the past week, with foreign investors back in action. Several factors may explain this, although global uncertainty could yet dampen spirits.",
+            "url": "https://www.livemint.com/opinion/online-views/stock-market-india-bse-sensex-foreign-investment-rupee-dollar-value-nifty50-bullish-market-best-stocks-to-buy-indices-11745247613044.html",
+            "source": "Livemint",
+            "publishedAt": "2025-04-22T01:30:15Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9406
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "timestamp": "2025-04-25T03:41:06.256780",
+    "overall_sentiment": "Positive",
+    "total_score": 1.826,
+    "articles": [
+        {
+            "title": "BILI Social, Part of Allied Energy Inc. (OTC:AGGI), Wins Three Global Awards for Creator-Led Campaigns at BOLD Awards VI",
+            "description": "BILI Social, a social commerce platform recognized for breakthrough marketing work with clients, Finish (Reckitt) and Dr. Oetker (Giuseppe Pizzeria) at international innovation event in Lisbon BILI Social, a social commerce platform recognized for breakthroug\u2026",
+            "url": "https://www.globenewswire.com/news-release/2025/04/08/3058043/0/en/BILI-Social-Part-of-Allied-Energy-Inc-OTC-AGGI-Wins-Three-Global-Awards-for-Creator-Led-Campaigns-at-BOLD-Awards-VI.html",
+            "source": "GlobeNewswire",
+            "publishedAt": "2025-04-08T21:11:00Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8944
+        },
+        {
+            "title": "BILI Social and the NHL Alumni Association Join Forces in Game-Changing Social Commerce Partnership",
+            "description": "TORONTO, March 31, 2025 (GLOBE NEWSWIRE) -- BecauseILoveIt.com (BILI Social), a leading social commerce platform, is proud to announce an exclusive three-year partnership with the NHL Alumni Association (NHLAA). This strategic agreement not only strengthens B\u2026",
+            "url": "https://www.globenewswire.com/news-release/2025/03/31/3052432/0/en/BILI-Social-and-the-NHL-Alumni-Association-Join-Forces-in-Game-Changing-Social-Commerce-Partnership.html",
+            "source": "GlobeNewswire",
+            "publishedAt": "2025-03-31T14:01:00Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9317
+        },
+        {
+            "title": "Why Bilibili Inc. (BILI) Surged On Thursday?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9128a6b-225e-46cf-8a79-05965524db76",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-03-28T08:28:38Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

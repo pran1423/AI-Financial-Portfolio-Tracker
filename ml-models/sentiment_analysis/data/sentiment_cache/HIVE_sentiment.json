@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:49:28.563701",
+    "overall_sentiment": "Positive",
+    "total_score": 1.9808,
+    "articles": [
+        {
+            "title": "Bitcoin miner HIVE Digital completes the first 100 MW facility in Paraguay",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b8705d12-48e6-43e1-b4c1-7de52a874ccc",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T17:35:09Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.545
+        },
+        {
+            "title": "The Hive Studio Opens New Branch in Greece to Boost Its Mediterranean Presence",
+            "description": "Renowned animation powerhouse The Hive Studio, best known for co-producing Tal Kantor\u2019s Oscar-nominated short \u201cLetter to a Pig,\u201d has officially launched a new European outpost in Greece. The Hive Greece, established in partnership with Athens-based Animasyros\u2026",
+            "url": "https://variety.com/2025/film/global/the-hive-studio-greece-animasyros-1236375735/",
+            "source": "Variety",
+            "publishedAt": "2025-04-23T08:37:37Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8169
+        },
+        {
+            "title": "flytekitplugins-hive 1.14.8",
+            "description": "This package holds Hive plugins for flytekit",
+            "url": "https://pypi.org/project/flytekitplugins-hive/1.14.8/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-23T06:58:06Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "flytekitplugins-hive 1.15.4",
+            "description": "This package holds Hive plugins for flytekit",
+            "url": "https://pypi.org/project/flytekitplugins-hive/1.15.4/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-22T23:06:33Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "The Rotary-Printed HIVE Lamp, by Stijn van Aardenne",
+            "description": "Earlier this year, we watched in fascination as Dutch designer Stijn van Aardenne developed a new production method. His prototype for a 4-axis rotary printer employed 3D printing on a revolving print bed:\r\nThat was in February, and the industrious van Aarden\u2026",
+            "url": "https://www.core77.com/posts/136480/The-Rotary-Printed-HIVE-Lamp-by-Stijn-van-Aardenne",
+            "source": "Core77.com",
+            "publishedAt": "2025-04-22T14:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "flytekitplugins-hive 1.16.0b7",
+            "description": "This package holds Hive plugins for flytekit",
+            "url": "https://pypi.org/project/flytekitplugins-hive/1.16.0b7/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-21T17:51:33Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "HIVE Digital Energizes Paraguay Site With Major Bitcoin Mining Expansion",
+            "description": "On Monday, HIVE Digital Technologies Ltd (NASDAQ:HIVE) disclosed that it completed Phase 1 of infrastructure development at its flagship Yguaz\u00f9 facility in Paraguay.\nThis phase includes a 100-megawatt air-cooled data center supported by a fully operational 20\u2026",
+            "url": "https://biztoc.com/x/ed00f633bc7c1e5f",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-21T12:47:36Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.6188
+        },
+        {
+            "title": "Hive Digital announces completion of first 100 MW infrastructure in Paraguay",
+            "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+            "url": "https://thefly.com/permalinks/entry.php/id4109433/HIVE-Hive-Digital-announces-completion-of-first--MW-infrastructure-in-Paraguay",
+            "source": "Thefly.com",
+            "publishedAt": "2025-04-21T10:45:16Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Franklin Resources Inc. Acquires Shares of 18,648 HIVE Digital Technologies Ltd. (NASDAQ:HIVE)",
+            "description": "Franklin Resources Inc. acquired a new stake in HIVE Digital Technologies Ltd. (NASDAQ:HIVE \u2013 Free Report) during the fourth quarter, Holdings Channel.com reports. The firm acquired 18,648 shares of the company\u2019s stock, valued at approximately $53,000. Other \u2026",
+            "url": "https://www.etfdailynews.com/2025/04/20/franklin-resources-inc-acquires-shares-of-18648-hive-digital-technologies-ltd-nasdaqhive/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-20T07:18:48Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "AliExpress - Vevor Medium Bee Hive Box Starter Kit $36.53",
+            "description": "Huge Savings! AliExpress has this Vevor Medium Bee Hive Box Starter Kit on sale for 72% off. Get it today for $36.53. Plus, shipping is free.<br /><br /><strong>Pro Shopping Tip:\u00a0</strong>Use a new customer coupons below or sitewide coupon to save!\u00a0 Plus, ins\u2026",
+            "url": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/vevor-medium-bee-hive-box-starter-kit-998434362",
+            "source": "Dealcatcher.com",
+            "publishedAt": "2025-04-16T13:58:47Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

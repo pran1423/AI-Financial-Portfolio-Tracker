@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-25T03:42:33.923494",
+    "overall_sentiment": "Neutral",
+    "total_score": 0.0,
+    "articles": [
+        {
+            "title": "Space charge induced electrofluorochromic behavior for C12-BTBT based thin-film devices",
+            "description": "J. Mater. Chem. C, 2025, Accepted ManuscriptDOI: 10.1039/D5TC00564G, PaperYuanwei Zhu, Yihang Jiang, Fenghua Cao, Pengju Wang, Junxin Ke, Jie Liu, Yongjie Nie, Guochang Li, Yanhui Wei, Guanghao Lu, Shengtao LiOrganic field effect transistor (OFET), regarded a\u2026",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc00564g",
+            "source": "Royal Society of Chemistry",
+            "publishedAt": "2025-04-23T23:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

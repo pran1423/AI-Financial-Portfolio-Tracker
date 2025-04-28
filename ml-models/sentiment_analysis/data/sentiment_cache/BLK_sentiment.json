@@ -1,0 +1,88 @@
+{
+    "timestamp": "2025-04-25T03:42:01.357609",
+    "overall_sentiment": "Negative",
+    "total_score": -0.9455,
+    "articles": [
+        {
+            "title": "BlackRock (BLK) \u2013 Research Analysts\u2019 Recent Ratings Updates",
+            "description": "BlackRock (NYSE: BLK) has recently received a number of price target changes and ratings updates: 4/22/2025 \u2013 BlackRock is now covered by analysts at StockNews.com. They set a \u201chold\u201d rating on the stock. 4/14/2025 \u2013 BlackRock had its price target lowered by a\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/24/blackrock-blk-research-analysts-recent-ratings-updates/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-24T06:54:56Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer Calls BlackRock (BLK) a Value Play: \u201cYour Stock Has Come Down a Lot\u201d",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bff86b99-ffdd-4957-bb08-1c8834fb9cc1",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-14T19:28:07Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9455
+        },
+        {
+            "title": "Billy Woods\u2019 Eerie \u2018Blk Zmby\u2019 Unpacks Some Unsettling Truths",
+            "description": "'Golliwog,' Woods' new album, is due on May 9.",
+            "url": "https://uproxx.com/music/billy-woods-blk-zmby/",
+            "source": "UPROXX",
+            "publishedAt": "2025-04-11T15:49:21Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "billy woods \u2013 BLK ZMBY",
+            "description": "woods' new album GOLLIWOG is out May 9th... Continue reading\u2026",
+            "url": "https://www.gorillavsbear.net/billy-woods-blk-zmby/",
+            "source": "Gorillavsbear.net",
+            "publishedAt": "2025-04-11T12:08:53Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "BlackRock (BLK) to Release Quarterly Earnings on Friday",
+            "description": "BlackRock (NYSE:BLK \u2013 Get Free Report) is anticipated to post its quarterly earnings results before the market opens on Friday, April 11th. Analysts expect BlackRock to post earnings of $10.84 per share and revenue of $5.47 billion for the quarter. Individual\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/09/blackrock-blk-to-release-quarterly-earnings-on-friday/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-09T05:08:46Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "BlackRock, Inc. (BLK): Jim Cramer Says \u201cThe Best for Last\u201d \u2014 Is This the Financial Titan to Own?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d9b4c249-1e2b-4224-aa34-da8e28c85226",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-08T14:31:04Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer on BlackRock (BLK) \u2013 \u201cLarry Fink\u2019s Playbook: A Money-Making Machine\u201d",
+            "description": "In This Article:\nWe recently published a list of Jim Cramer\u2019s Take on These 10 Stocks. In this article, we are going to take a look at where BlackRock, Inc. (NYSE:BLK) stands against other stocks that Jim Cramer discusses.\nOn Wednesday, Jim Cramer, the host o\u2026",
+            "url": "https://biztoc.com/x/756747932fb21a81",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-04T14:56:34Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer on BlackRock (BLK) \u2013 \u201cLarry Fink\u2019s Playbook: A Money-Making Machine\u201d",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1b461136-8cc9-4f8f-b339-5c21ea8aef9c",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-04T14:33:37Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "BlackRock, Inc. (BLK): Jim Cramer Calls It a Long-Term Buy and Homework Stock",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d166c7ee-2183-41d8-9be9-4e09894f60bc",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-03-29T20:04:07Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

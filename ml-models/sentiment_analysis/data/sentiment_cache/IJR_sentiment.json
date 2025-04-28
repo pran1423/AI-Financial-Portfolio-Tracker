@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-25T03:50:54.269669",
+    "overall_sentiment": "Negative",
+    "total_score": -0.8211,
+    "articles": [
+        {
+            "title": "City Employee Charged With Putting Noose On Her Own Desk, Faking 'Hate Crime' (IJR)",
+            "description": "IJR:\nCity Employee Charged With Putting Noose On Her Own Desk, Faking \u2018Hate Crime\u2019\u00a0 \u2014\u00a0 A black city official in Pennsylvania is charged with faking a racist threat that triggered outrage from activists and a response from the FBI.\u00a0 \u2014\u00a0 Allentown, Pennsylvania \u2026",
+            "url": "https://www.memeorandum.com/250325/p80",
+            "source": "Memeorandum.com",
+            "publishedAt": "2025-03-25T18:05:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.8211
+        }
+    ]
+}

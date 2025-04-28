@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:40:01.431255",
+    "overall_sentiment": "Negative",
+    "total_score": -0.6516,
+    "articles": [
+        {
+            "title": "tencentcloud-sdk-python-ba 3.0.1365",
+            "description": "Tencent Cloud Ba SDK for Python",
+            "url": "https://pypi.org/project/tencentcloud-sdk-python-ba/3.0.1365/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-23T20:43:30Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Uncertain Outlook Likely to Keep Weighing on Boeing (BA), Investor Says",
+            "description": "In This Article:\nThe \"cloudiness of forecasts\" for Boeing (BA) is likely to keep weighing on BA stock going forward, said Dave Mazza, the CEO of Roundhill Investments, on the Schwab Network recently.\nSpecifically, the uncertainty of the outcome of trade battl\u2026",
+            "url": "https://biztoc.com/x/1323896198fae754",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T17:05:41Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Uncertain Outlook Likely to Keep Weighing on Boeing (BA), Investor Says",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8e17287a-20e4-4fdd-8c83-36b494cfb3e7",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T16:40:41Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.6516
+        },
+        {
+            "title": "Ba&sh Launches Mini Me Collection Fronted by Vanessa Breuer and Her\u00a0Daughters",
+            "description": "The Mini Me collection will be available in all Ba&sh boutiques and online.",
+            "url": "http://wwd.com/fashion-news/fashion-scoops/baash-mini-me-campaign-vanessa-breuer-daughters-1237100162/",
+            "source": "WWD",
+            "publishedAt": "2025-04-23T04:01:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "The Boeing Company (BA): One of the Top Defense Stock Picks from the Goldman Sachs Portfolio",
+            "description": "We recently published a list of Goldman Sachs Defense Stocks: Top 12 Stock Picks. In this article, we will take a look at where The Boeing Company (NYSE:BA) ...",
+            "url": "https://finance.yahoo.com/news/boeing-company-ba-one-top-225011452.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T22:50:11Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "tencentcloud-sdk-python-ba 3.0.1364",
+            "description": "Tencent Cloud Ba SDK for Python",
+            "url": "https://pypi.org/project/tencentcloud-sdk-python-ba/3.0.1364/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-22T20:49:14Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Dawa ka CoMSO ban pynsangeh thungkam ia ka samla ba pass MCS ba artatien ban dei ka Garo",
+            "description": "Ka Confederation of Meghalaya Social Organisations (COMSO) ha ka 21 tarik Iaiong ka la dawa ban pynsangeh shwa mardor ia ka jingthungkam ia ka Esther Ngurlienmoi Marak kaba la shah jied na ka bhah Scheduled Tribe jong ki Garo ha ka eksam Meghalaya Civil Servi\u2026",
+            "url": "https://www.syllad.com/dawa-ka-comso-ban-pynsangeh-thungkam-ia-ka-samla-ba-pass-mcs-ba-artatien-ban-dei-ka-garo/",
+            "source": "Syllad.com",
+            "publishedAt": "2025-04-21T19:55:11Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "The Boeing Company (BA): Among Billionaire Rob Citrone\u2019s Top Stock Picks",
+            "description": "We recently published a list of Billionaire Rob Citrone\u2019s Top 10 Stock Picks. In this article, we are going to take a look at where The Boeing Company...",
+            "url": "https://finance.yahoo.com/news/boeing-company-ba-among-billionaire-171059137.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-21T17:10:59Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer Wants to See Cash Flow Before Buying The Boeing Company (BA)",
+            "description": "In This Article:\nWe recently published a list of Jim Cramer\u2019s Game Plan for Next Week: 25 Stocks in Focus. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other stocks that Jim Cramer discussed.\nOn Thursday, J\u2026",
+            "url": "https://biztoc.com/x/ff06683895a5edee",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-21T14:27:44Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer Wants to See Cash Flow Before Buying The Boeing Company (BA)",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3bd3a89-1995-414b-91a9-54b33604ea8f",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-21T14:10:37Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

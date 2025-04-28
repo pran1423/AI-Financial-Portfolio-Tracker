@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-25T03:42:11.560238",
+    "overall_sentiment": "Positive",
+    "total_score": 0.5655,
+    "articles": [
+        {
+            "title": "Show HN: Blnk Finance, open-source financial core for fintechs",
+            "description": "Hello HN,We\u2019ve been building Blnk Finance, an open-source financial core for developers that need reliable infrastructure for their fintech backend.We built Blnk Finance to help developers who want to move fast without compromising compliance and correctness.\u2026",
+            "url": "https://github.com/blnkfinance/blnk",
+            "source": "Github.com",
+            "publishedAt": "2025-03-27T12:10:41Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.5655
+        }
+    ]
+}

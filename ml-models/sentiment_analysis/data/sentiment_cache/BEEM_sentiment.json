@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-25T03:40:45.544614",
+    "overall_sentiment": "Neutral",
+    "total_score": 0.0,
+    "articles": [
+        {
+            "title": "Beam Global (BEEM) to Release Quarterly Earnings on Friday",
+            "description": "Beam Global (NASDAQ:BEEM \u2013 Get Free Report) will likely be posting its quarterly earnings results before the market opens on Friday, April 11th. Analysts expect Beam Global to post earnings of ($0.23) per share and revenue of $12.99 million for the quarter. P\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/09/beam-global-beem-to-release-quarterly-earnings-on-friday/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-09T05:08:45Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Portronics Beem 520 Smart LED Projector With 2,200 Lumens Brightness, In-Built OTT Apps Launched in India",
+            "description": "Portronics Beem 520 smart LED projector was launched in India on Friday. It comes with output capability in 720p HD native resolution, support for up to 4K Ultra-HD, and 2,200 lumens brightness. The projector arrives with in-built OTT apps like Amazon Prime V\u2026",
+            "url": "https://www.gadgets360.com/tv/news/portronics-beem-520-price-in-india-launch-smart-led-projector-features-specifications-8031688",
+            "source": "Gadgets360.com",
+            "publishedAt": "2025-03-28T10:46:29Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

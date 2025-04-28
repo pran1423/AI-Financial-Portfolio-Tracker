@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-25T03:40:55.672530",
+    "overall_sentiment": "Positive",
+    "total_score": 1.5796,
+    "articles": [
+        {
+            "title": "Baidu, Inc. (BIDU): Among the Best Emerging Markets Stocks to Buy According to Hedge Funds",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0da7a721-8f18-47f6-a905-4675da737ff5",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-01T22:50:32Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8641
+        },
+        {
+            "title": "Baidu (BIDU) to Deploy 100 Autonomous Vehicles in Dubai by 2025",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0bb871bf-63e2-49cd-9923-6d8b668de46f",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-03-31T19:56:40Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.7155
+        }
+    ]
+}

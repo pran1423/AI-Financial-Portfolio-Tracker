@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:38:11.048406",
+    "overall_sentiment": "Positive",
+    "total_score": 1.8131,
+    "articles": [
+        {
+            "title": "portkey-ai 1.12.1",
+            "description": "Python client library for the Portkey API",
+            "url": "https://pypi.org/project/portkey-ai/1.12.1/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-24T07:36:09Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Databricks to boost hiring in India by 50%, invest over $250 million to accelerate AI boom",
+            "description": "Databricks to also launch an AI and data academy in India with the goal of training half a million partners and customers over the next three years",
+            "url": "https://www.bloomberg.com/news/articles/2025-04-24/databricks-to-hire-hundreds-in-india-to-accelerate-ai-boom",
+            "source": "Bloomberg",
+            "publishedAt": "2025-04-24T07:33:01Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8597
+        },
+        {
+            "title": "State Bar of California Admits AI Was Used for Questions",
+            "description": "The State Bar of California has disclosed that some multiple-choice questions in a problem-plagued bar exam were developed with the aid of artificial intelligence. The legal licensing body said in a news release that it will ask the California Supreme Court t\u2026",
+            "url": "https://www.newser.com/story/367609/state-bar-of-california-admits-ai-was-used-for-questions.html",
+            "source": "Newser",
+            "publishedAt": "2025-04-24T07:30:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "quickchat-ai-mcp 0.0.3",
+            "description": "Quickchat AI MCP Server",
+            "url": "https://pypi.org/project/quickchat-ai-mcp/0.0.3/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-24T07:25:44Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "James Bulger's mum seeks AI law to curb clips of murder victims",
+            "description": "Denise Fergus says internet laws don't go far enough to protect people from harmful content online.",
+            "url": "https://www.bbc.com/news/articles/cp91m4rzzm0o",
+            "source": "BBC News",
+            "publishedAt": "2025-04-24T07:18:04Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "A new AI app that helps you cheat in conversations is slick, a little creepy, and not quite ready for your next meeting",
+            "description": "An advertisement for Cluely shows how the app can help users \"cheat\" on dates.\nChungin Lee/LinkedIn\nCluely is an AI tool built for cheating in live conversations, and it has raised $5.3 million.\nThe startup is founded by Chungin \"Roy\" Lee, who was suspended f\u2026",
+            "url": "https://biztoc.com/x/584c0e4fb1da1452",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-24T07:17:36Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "AssessFirst accelerates growth in 2025 with the launch of its AI Voice Agent",
+            "description": "PARIS, April 24, 2025 /PRNewswire/ -- After a 2024 year marked by a +20% growth and an annual recurring revenue (ARR) reaching \u20ac16 million, AssessFirst confirms its leadership in the predictive recruitment market. With a strong 15% EBITDA*, the company contin\u2026",
+            "url": "https://www.prnewswire.co.uk/news-releases/assessfirst-accelerates-growth-in-2025-with-the-launch-of-its-ai-voice-agent-302432445.html",
+            "source": "PR Newswire UK",
+            "publishedAt": "2025-04-24T07:15:00Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9533
+        },
+        {
+            "title": "How AI is Changing the Career Landscape | In Talk: Dr. Shashank Sharma, PhD, Marketing Data Science",
+            "description": "How AI is Changing the Career Landscape | In Talk: Dr. Shashank Sharma, PhD, Marketing Data Scienceyoutube.com",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dob6SMCoplds",
+            "source": "YouTube",
+            "publishedAt": "2025-04-24T07:13:45Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "AI Startup Founder Becomes World's Youngest Self-Made Woman Billionaire",
+            "description": "Taylor Swift claimed the title of the youngest self-made woman billionaire in the world in 2023. But two years later, she has been overtaken by Lucy Guo, the 30-year-old cofounder of Scale AI.",
+            "url": "https://www.ndtv.com/world-news/ai-startup-founder-lucy-guo-replaces-taylor-swift-as-worlds-youngest-self-made-woman-billionaire-8243187",
+            "source": "NDTV News",
+            "publishedAt": "2025-04-24T07:13:31Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "A new AI app that helps you cheat in conversations is slick, a little creepy, and not quite ready for your next meeting",
+            "description": "The startup is founded by suspended Columbia student Chungin \"Roy\" Lee, who went viral for creating an AI tool that \"cheated\" on tech interviews.",
+            "url": "https://www.businessinsider.com/cluely-ai-cheat-job-interviews-columbia-chungin-roy-lee-2025-4",
+            "source": "Business Insider",
+            "publishedAt": "2025-04-24T07:11:14Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

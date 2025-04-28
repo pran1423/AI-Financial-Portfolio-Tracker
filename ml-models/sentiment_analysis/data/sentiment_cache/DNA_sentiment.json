@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:46:13.452839",
+    "overall_sentiment": "Negative",
+    "total_score": -2.4391,
+    "articles": [
+        {
+            "title": "My GEDmatch talk this Friday, DNA day",
+            "description": "This Friday is DNA Day; a day we celebrate the discovery of the structure of DNA. To mark this occasion, most of the personal DNA testing companies are having sales. There are also special events all over this country at museums, schools, and web sites. GEDma\u2026",
+            "url": "https://blog.kittycooper.com/2025/04/my-gedmatch-talk-this-friday-dna-day/",
+            "source": "Kittycooper.com",
+            "publishedAt": "2025-04-24T02:51:37Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Gullit explains Milan \u2018must\u2019 beat Inter to Coppa Italia and how to fix their \u2018DNA\u2019",
+            "description": "Legendary former Milan midfielder Ruud Gullit feels that the Rossoneri \u2018must win the Coppa Italia\u2019 if they are to \u2018save the season\u2019 after a turbulent time",
+            "url": "https://football-italia.net/gullit-milan-must-win-coppa-italia-vs-inter/",
+            "source": "Football Italia",
+            "publishedAt": "2025-04-23T16:35:53Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Parts of our DNA may evolve much faster than previously thought",
+            "description": "A team of researchers has used advanced DNA sequencing to develop the most comprehensive atlas yet of genetic change through generations, laying the foundations for new insights into the roots of human disease and evolution.",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250423111908.htm",
+            "source": "Science Daily",
+            "publishedAt": "2025-04-23T15:19:08Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "How DNA self-organizes in the early embryo",
+            "description": "An international research team has provided a detailed insight into how the spatial organization of genetic material is established in the cell nucleus of early embryos within the first hours after fertilization. Surprisingly, embryos demonstrate a high degre\u2026",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250423111756.htm",
+            "source": "Science Daily",
+            "publishedAt": "2025-04-23T15:17:56Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Ancient DNA challenges long-held assumptions about the Mediterranean Phoenician-Punic civilization",
+            "description": "The Phoenician culture emerged in the Bronze Age city-states of the Levant, developing prominent innovations such as the first alphabet (from which many present-day writing systems derive). By the early first millennium BCE, Phoenician cities had established \u2026",
+            "url": "https://phys.org/news/2025-04-ancient-dna-held-assumptions-mediterranean.html",
+            "source": "Phys.Org",
+            "publishedAt": "2025-04-23T15:00:24Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Who were the Carthaginians? Ancient DNA study reveals a stunning answer",
+            "description": "Carthage and its empire were established by Phoenicians, but new research finds that the archenemies of Rome had little genetic link to their Levantine founders",
+            "url": "https://www.haaretz.com/archaeology/2025-04-23/ty-article/who-were-the-carthaginians-ancient-dna-study-reveals-a-stunning-answer/00000196-521f-d9e7-a3df-db7f869f0000",
+            "source": "Haaretz",
+            "publishedAt": "2025-04-23T15:00:07Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "To Bust a Shoplifting Gang, London Cops Broke Out the DNA",
+            "description": "An alleged shoplifting gang in the UK has been busted up by arrests, thanks to DNA evidence in some of the stolen items. Per Surrey Live , 100-plus police officers raided eight different shops in the London area suspected of buying up food and booze stolen fr\u2026",
+            "url": "https://www.newser.com/story/367526/to-bust-a-shoplifting-gang-london-cops-broke-out-the-dna.html",
+            "source": "Newser",
+            "publishedAt": "2025-04-23T12:19:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.7996
+        },
+        {
+            "title": "Hellen Ati Resumes Dragging Cubana Chiefpriest Over Son\u2019s DNA Test: \u201cYou Refused to Use Protection\u201d",
+            "description": "Hellen Ati, Cubana Chiefpriest\u2019s alleged baby mama, demands a DNA test after repeatedly accusing him of avoiding responsibility for their son in videos.",
+            "url": "https://www.legit.ng/entertainment/celebrities/1651507-hellen-ati-resumes-dragging-cubana-chiefpriest-sons-dna-test-refused-protection/",
+            "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+            "publishedAt": "2025-04-23T11:12:38Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.7797
+        },
+        {
+            "title": "Gullit discusses Milan\u2019s lack of \u2018DNA\u2019, Conceicao\u2019s work and Coppa Italia derby",
+            "description": "Ruud Gullit has once again laid into the current iteration of AC Milan, claiming that the club are lacking in the DNA which makes it great.Milan are having a disastrous season on all fronts, having be...",
+            "url": "https://sempremilan.com/gullit-milan-dna-conceicao-coppa-derby",
+            "source": "SempreMilan",
+            "publishedAt": "2025-04-23T09:20:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.8598
+        },
+        {
+            "title": "DNA origami guides new possibilities in the fight against pancreatic cancer",
+            "description": "One of the challenges of fighting pancreatic cancer is finding ways to penetrate the organ's dense tissue to define the margins between malignant and normal tissue. A new study uses DNA origami structures to selectively deliver fluorescent imaging agents to p\u2026",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250422190659.htm",
+            "source": "Science Daily",
+            "publishedAt": "2025-04-22T23:06:59Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

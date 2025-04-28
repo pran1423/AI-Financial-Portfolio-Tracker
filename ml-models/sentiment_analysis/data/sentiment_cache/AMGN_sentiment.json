@@ -1,0 +1,34 @@
+{
+    "timestamp": "2025-04-25T03:38:49.315091",
+    "overall_sentiment": "Negative",
+    "total_score": -0.0332,
+    "articles": [
+        {
+            "title": "Is Amgen Inc. (AMGN) a Cheap NASDAQ Stock to Buy According to Hedge Funds?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f72254a7-c484-4a15-8ccd-fa51a0397f26",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-22T13:49:34Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "United Health (NYSE: UNH), Amgen (NYSE: AMGN) and Humana (NYSE: HUM) Are Tumbling Today",
+            "description": "Healthcare stocks are getting shellacked today, pressured by a double-digit percentage drop in United Healthcare (NYSE: UNH). UNH is shaving off nearly 25% of its value today and sinking all healthcare ships, with Amgen (NYSE: AMGN) and Humana (NYSE: HUM) see\u2026",
+            "url": "https://biztoc.com/x/ac756f4f0b0fc071",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-17T16:40:38Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9726
+        },
+        {
+            "title": "Amgen Inc. (AMGN): Among the Innovative Healthcare Stocks to Watch in 2025",
+            "description": "In the US, healthcare costs and prices have been increasing. According to the Centers for Medicare & Medicaid Services, U.S. healthcare spending increased...",
+            "url": "https://finance.yahoo.com/news/amgen-inc-amgn-among-innovative-134528561.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-17T13:45:28Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9394
+        }
+    ]
+}

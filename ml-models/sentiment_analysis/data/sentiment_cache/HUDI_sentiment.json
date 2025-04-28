@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-25T03:50:03.100345",
+    "overall_sentiment": "Neutral",
+    "total_score": 0.0,
+    "articles": [
+        {
+            "title": "How Doris + Hudi Turned the Impossible Into the Everyday",
+            "description": "In the world of big data, there's a legend that goes like this: A data scientist, constantly worried about query performance and working late every night to optimize SQL, suddenly discovered the \"perfect match\" of Doris and Hudi, and immediately kicked into \"\u2026",
+            "url": "https://dzone.com/articles/doris-hudi-making-impossible-possible",
+            "source": "Dzone.com",
+            "publishedAt": "2025-04-14T19:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Integrating Apache Doris and Hudi for Data Querying and Migration",
+            "description": "In the field of big data analytics, real-time data availability, query performance, and flexibility are crucial. With the rise of the Lakehouse architecture as a new paradigm in big data, integrating Apache Doris, a high-performance real-time analytical datab\u2026",
+            "url": "https://dzone.com/articles/integrate-apache-doris-hudi-data-querying-migration",
+            "source": "Dzone.com",
+            "publishedAt": "2025-04-03T21:30:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

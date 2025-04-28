@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:43:34.873682",
+    "overall_sentiment": "Positive",
+    "total_score": 5.7442,
+    "articles": [
+        {
+            "title": "Is TRUMP Coin a good investment?",
+            "description": "TRUMP coin has all the hype, but does it have some substance too?",
+            "url": "https://ambcrypto.com/is-trump-coin-a-good-investment/",
+            "source": "Ambcrypto.com",
+            "publishedAt": "2025-04-24T06:41:42Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Trump Meme Coin Price Surges After Top Holders Are Invited For Dinner With President",
+            "description": "The token\u2019s market cap crossed $2.4 billion on Wednesday night, a nearly 30% jump from the previous day following the dinner announcement.",
+            "url": "https://www.forbes.com/sites/siladityaray/2025/04/24/trump-meme-coin-price-surges-after-top-holders-are-invited-for-dinner-with-president/",
+            "source": "Forbes",
+            "publishedAt": "2025-04-24T05:55:16Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9308
+        },
+        {
+            "title": "TRUMP Coin surges by 70% as PepeX looks to ease memecoin creation",
+            "description": "Key takeaways $TRUMP rallied by 70% on Wednesday to briefly hit the $16 mark. PepeX\u2019s presale eyes $1.7 million as it prepares to enter a new stage. $TRUMP outperforms the market The $TRUMP token was the best-performing cryptocurrency among the 50 with the la\u2026",
+            "url": "https://coinjournal.net/news/trump-coin-surges-by-70-as-pepex-looks-to-ease-memecoin-creation/",
+            "source": "Coinjournal.net",
+            "publishedAt": "2025-04-24T05:25:35Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9133
+        },
+        {
+            "title": "CartelFi presale bridges meme coin hype with DeFi yields",
+            "description": "Token supply is capped at 1 billion with 25% for presale. Price increases by 5% every 3 days; final price target is $0.10. Launch expected by Q3 2025 with native DeFi functionality. CartelFi is a new meme-themed DeFi platform merging viral coin culture with h\u2026",
+            "url": "https://coinjournal.net/news/cartelfi-presale-bridges-meme-coin-hype-with-defi-yields/",
+            "source": "Coinjournal.net",
+            "publishedAt": "2025-04-24T05:08:46Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "$TRUMP Coin Dinner: All you need to know about Trump's exclusive dinner date, and its perks",
+            "description": "Donald Trump is set to host a private dinner for the top 220 holders of his $TRUMP meme coin on May 22nd at Trump National Golf Club. The top 25 investors will also receive a White House tour. Launched in January 2025, the $TRUMP coin quickly soared in value,\u2026",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/trump-coin-dinner-all-you-need-to-know-about-trumps-exclusive-dinner-date-and-its-perks/articleshow/120567456.cms",
+            "source": "The Times of India",
+            "publishedAt": "2025-04-24T02:26:08Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.5922
+        },
+        {
+            "title": "Dinner with the president: Trump meme coin surges on offer to top buyers",
+            "description": "Donald Trump's meme coin, $TRUMP, surged after an announcement promising top holders a dinner with the former president. This event, coupled with Trump's crypto ventures and promises to be a \"crypto president,\" raises conflict of interest concerns. Ethics wat\u2026",
+            "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/dinner-with-the-president-trump-meme-coin-surges-on-offer-to-top-buyers/articleshow/120567492.cms",
+            "source": "The Times of India",
+            "publishedAt": "2025-04-24T02:15:31Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Biggest Trump Coin Investors Are Offered Special Access",
+            "description": "President Trump's cryptocurrency token soared more than 60% on Wednesday after the announcement that its biggest investors would be invited to dine with the president at one of his clubs and receive a special tour of the White House. \"The most EXCLUSIVE INVIT\u2026",
+            "url": "https://www.newser.com/story/367613/biggest-trump-coin-investors-are-offered-special-access.html",
+            "source": "Newser",
+            "publishedAt": "2025-04-24T01:30:00Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.731
+        },
+        {
+            "title": "Dinner with the president: Trump meme coin surges on offer to top buyers",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_247be5df-d513-4d46-8190-df80b0078f79",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-24T01:17:27Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8494
+        },
+        {
+            "title": "Dinner with the president: Trump meme coin surges on offer to top buyers",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b7fb17a7-a159-4809-ad50-b20c4dbac85c",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-24T01:17:27Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8494
+        },
+        {
+            "title": "Dinner with the president: Trump meme coin surges on offer to top buyers",
+            "description": "NEW YORK :President Donald Trump's meme coin surged more than 60 per cent on Wednesday after a post announcing \"the most EXCLUSIVE INVITATION in the world\" promised the top 220 buyers of $TRUMP a private gala dinner with the president on May 22. In addition t\u2026",
+            "url": "https://www.channelnewsasia.com/business/dinner-president-trump-meme-coin-surges-offer-top-buyers-5085221",
+            "source": "CNA",
+            "publishedAt": "2025-04-24T01:17:27Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8783
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:38:36.533919",
+    "overall_sentiment": "Positive",
+    "total_score": 0.8748,
+    "articles": [
+        {
+            "title": "AMD Announces Press Conference & Livestream at Computex 2025",
+            "description": "AMD today announced that it will be hosting a press conference during Computex 2025. The in-person and livestreamed press conference will take place on Wednesday, May 21, 2025, at 11 a.m. UTC+8, Taipei, at the Grand Hyatt, Taipei. The event will showcase the \u2026",
+            "url": "http://www.madshrimps.be/news/item/238801",
+            "source": "Madshrimps.be",
+            "publishedAt": "2025-04-24T03:39:28Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "ASUS B650E MAX GAMING WIFI W - AMD B650 AM5 ATX Motherboard with free 32 GB Corsair DDR5 ram 6000 $169.99 at Newegg (3 replies)",
+            "description": "Seems this board just came out and the specs look decent plus the free ram. Thoughts?\n\nhttps://www.newegg.com/p/N82E16813119736",
+            "url": "https://slickdeals.net/f/18272584-asus-b650e-max-gaming-wifi-w-amd-b650-am5-atx-motherboard-with-free-32-gb-corsair-ddr5-ram-6000-169-99-at-newegg",
+            "source": "Slickdeals.net",
+            "publishedAt": "2025-04-24T03:11:29Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "ASUS B650E MAX GAMING WIFI W - AMD B650 AM5 ATX Motherboard with free 32 GB Corsair DDR5 ram 6000 $169.99 at Newegg",
+            "description": "Seems this board just came out and the specs look decent plus the free ram. Thoughts?\nEdit: You can also add the Ryzen 5 9600x bundle for $219.99 (includes 16gb DDR5 and Monster Hunter Wilds game free",
+            "url": "https://slickdeals.net/f/18272584-asus-b650e-max-gaming-wifi-w-amd-b650-am5-atx-motherboard-with-free-32-gb-corsair-ddr5-ram-6000-169-99-at-newegg?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+            "source": "Slickdeals.net",
+            "publishedAt": "2025-04-24T03:11:29Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "ASUS TUF GAMING B650M-E WIFI AMD Socket AM5 MicroATX Desktop Motherboard $125 + Free Shipping",
+            "description": "Newegg Inc. via Walmart [walmart.com] has *ASUS TUF GAMING B650M-E WIFI AMD Socket AM5 MicroATX Desktop Motherboard* on sale for *$124.99*. *Shipping is free*. \n \nNewegg [newegg.com] also has *ASUS...",
+            "url": "https://slickdeals.net/f/18272470-asus-tuf-gaming-b650m-e-wifi-amd-socket-am5-microatx-desktop-motherboard-125-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+            "source": "Slickdeals.net",
+            "publishedAt": "2025-04-24T01:36:10Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Cathie Wood Buys More NVIDIA And AMD Stock As Chinese Tech Giants Stockpile Chips Amid Looming US Export Curbs",
+            "description": "On Wednesday, Cathie Wood-led Ark Invest increased its exposure to NVIDIA Corp (NASDAQ:NVDA) and Advanced Micro Devices Inc (NASDAQ:AMD). These trades come amid ongoing challenges in the semiconductor industry, particularly with U.S. sanctions affecting chip \u2026",
+            "url": "https://biztoc.com/x/adf1618cebe9addf",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-24T01:34:54Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9478
+        },
+        {
+            "title": "AMD Publishes Open-Source GIM Driver For GPU Virtualization, Radeon \"In The Roadmap\"",
+            "description": "AMD has published as open-source their \"GPU-IOV Module\" used for virtualization with Instinct accelerators. It's also reported on their roadmap for bringing virtualization support to their client (Radeon) discrete GPUs...",
+            "url": "https://www.phoronix.com/news/AMD-GIM-Open-Source",
+            "source": "Phoronix",
+            "publishedAt": "2025-04-24T00:15:10Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Nvidia, AMD, and Other Chip Stocks Rally. Tariffs Fears Are Lifting\u2014but There Is Another Concern to Watch",
+            "description": "",
+            "url": "https://biztoc.com/x/b1bdfb9bc918a166",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-24T00:06:37Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.3666
+        },
+        {
+            "title": "AMD Reports $800 Million Damage from New China Chip Controls. Should You Buy or Sell AMD Stock Now?",
+            "description": "",
+            "url": "https://biztoc.com/x/c2643c90b1c486ff",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T19:18:07Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "MINISFORUM MS-A2 is a compact desktop with up to an AMD Ryzen 9 9955HX processor",
+            "description": "The MINISFORUM MS-A2 is a small desktop computer that combines a high-end AMD Ryzen mobile processor with desktop-class performance with a design that offers plenty of expansion options. MINISFORUM hasn\u2019t announced pricing and availability yet, but the compan\u2026",
+            "url": "https://liliputing.com/minisforum-ms-a2-is-a-compact-desktop-with-up-to-an-amd-ryzen-9-9955hx-processor/",
+            "source": "Liliputing",
+            "publishedAt": "2025-04-23T19:15:46Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Pure Storage, Health Catalyst, AMD, Micron, and FormFactor Stocks Trade Up, What You Need To Know",
+            "description": "A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a ...",
+            "url": "https://finance.yahoo.com/news/pure-storage-health-catalyst-amd-184507001.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T18:45:07Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.4396
+        }
+    ]
+}

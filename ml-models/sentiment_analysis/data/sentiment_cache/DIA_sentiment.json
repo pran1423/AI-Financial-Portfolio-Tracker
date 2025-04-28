@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:45:51.571031",
+    "overall_sentiment": "Negative",
+    "total_score": -1.7523,
+    "articles": [
+        {
+            "title": "Dia & Co - Up to 45% Off",
+            "description": "Friends & Family Sale is happening now! Get up to 45% off a great selection of items. Shop now and save!",
+            "url": "https://www.dealcatcher.com/?offer=998437619",
+            "source": "Dealcatcher.com",
+            "publishedAt": "2025-04-23T13:50:57Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "A Line trains to DIA disrupted April 26 through May 8",
+            "description": "The Regional Transportation District A Line trains linking Denver International Airport and the downtown Union Station will be disrupted for maintenance April 26 thorugh May 8, transit officials announced on Monday, advising travelers they'll need extra time.",
+            "url": "https://www.denverpost.com/2025/04/22/rtd-a-line-rail-denver-international-airport-delays-maintenance/",
+            "source": "The Denver Post",
+            "publishedAt": "2025-04-22T21:57:26Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.946
+        },
+        {
+            "title": "Rabbit suspected in wildlife strike that forced United flight to divert back to DIA",
+            "description": "DENVER (KDVR) \u2014 A United Airlines flight was forced to make an emergency landing at Denver International Airport on Sunday after what appears to be a rare wildlife strike \u2014 potentially involving a rabbit. While wildlife strikes are relatively common at U.S. a\u2026",
+            "url": "https://freerepublic.com/focus/f-chat/4311626/posts",
+            "source": "Freerepublic.com",
+            "publishedAt": "2025-04-17T19:43:38Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9223
+        },
+        {
+            "title": "diffnovo-dia 0.1.2",
+            "description": "Transformer-diffusion de novo peptide sequencing for data-independent acquisition mass spectrometry",
+            "url": "https://pypi.org/project/diffnovo-dia/0.1.2/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-17T16:40:05Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "DIA is building a new parking lot, hiking parking rates",
+            "description": "DIA is planning a new parking lot and is raising rates for the existing parking lots.",
+            "url": "https://www.denverpost.com/2025/04/17/dia-denver-airport-parking-lot-rates-prices/",
+            "source": "The Denver Post",
+            "publishedAt": "2025-04-17T12:00:52Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.6553
+        },
+        {
+            "title": "\"I Vomitted, Was Shaking...\": Dia Mirza On Filming Rape Scene In Kaafir",
+            "description": "Kaafir revolves around Kainaaz Akhtar, a Pakistani woman who accidentally crosses into Indian territory and is subsequently imprisoned under suspicion of being a militant.",
+            "url": "https://www.ndtv.com/entertainment/dia-mirza-on-filming-rape-scene-in-kaafir-i-vomitted-was-shaking-physically-8184789",
+            "source": "NDTV News",
+            "publishedAt": "2025-04-17T05:18:50Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.5693
+        },
+        {
+            "title": "Engine of United flight diverted to DIA on Sunday caught fire",
+            "description": "\u201cWe think we lost our right motor,\u201d a crew member on the United flight headed from Denver to Canada said in a recording obtained by the Associated Press.",
+            "url": "https://www.denverpost.com/2025/04/16/united-denver-international-airport-engine-fire-emergency-landing/",
+            "source": "The Denver Post",
+            "publishedAt": "2025-04-16T20:37:22Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9228
+        },
+        {
+            "title": "DIA again ranked sixth-busiest airport in the world",
+            "description": "Denver International Airport officials say their sixth-busiest ranking among the world\u2019s airports solidifies DIA\u2019s position as a global hub with expanding reach.",
+            "url": "https://www.denverpost.com/2025/04/15/denver-international-airport-rankings-worlds-busiest/",
+            "source": "The Denver Post",
+            "publishedAt": "2025-04-15T18:15:57Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9529
+        },
+        {
+            "title": "diffnovo-dia 0.1.1",
+            "description": "Transformer-diffusion de novo peptide sequencing for data-independent acquisition mass spectrometry",
+            "url": "https://pypi.org/project/diffnovo-dia/0.1.1/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-15T16:15:35Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "diffnovo-dia added to PyPI",
+            "description": "Transformer-diffusion de novo peptide sequencing for data-independent acquisition mass spectrometry",
+            "url": "https://pypi.org/project/diffnovo-dia/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-15T14:31:36Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

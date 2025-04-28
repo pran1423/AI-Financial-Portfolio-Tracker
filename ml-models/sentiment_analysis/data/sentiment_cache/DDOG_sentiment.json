@@ -1,0 +1,52 @@
+{
+    "timestamp": "2025-04-25T03:45:18.721719",
+    "overall_sentiment": "Positive",
+    "total_score": 1.5278,
+    "articles": [
+        {
+            "title": "Live Nasdaq Composite: DDOG (Nasdaq: DDOG), COIN (Nasdaq: COIN) Rise in Market Rebound",
+            "description": "Live Updates\n Live Coverage\n Updates appear automatically as they are published.\n \nBottoms Up \n 10:10 am\n by Gerelyn Terzo\n \nThe markets are holding onto gains today, with all three of the major stock market indices trading decidedly higher. With each of the \u2026",
+            "url": "https://biztoc.com/x/e526843569dd05ab",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-22T14:51:41Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9159
+        },
+        {
+            "title": "Is Datadog, Inc. (DDOG) the Best Growth Stock to Buy According to Billionaires?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1e343dd6-30b8-459d-bad7-09102c99ba21",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-14T18:02:06Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Datadog, Inc. (DDOG): One of the Best Big Data Stocks to Buy According to Analysts",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d7e07422-1462-4100-be31-c0424a0195eb",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-09T14:15:14Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.6118
+        },
+        {
+            "title": "Is Datadog, Inc.\u00a0(DDOG) the Best Long Term Growth Stock to Buy According to Billionaires?",
+            "description": "We recently published a list of 10 Best Long Term Growth Stocks to Buy According to Billionaires. In this article, we are going to take a look at where...",
+            "url": "https://finance.yahoo.com/news/datadog-inc-ddog-best-long-181049163.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-08T18:10:49Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Datadog, Inc. (DDOG): Among the Best Enterprise Software Stocks to Buy Now",
+            "description": "We recently published a list of 12 Best Enterprise Software Stocks to Buy Now. In this article, we are going to take a look at where Datadog, Inc...",
+            "url": "https://finance.yahoo.com/news/datadog-inc-ddog-among-best-215256996.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-05T21:52:56Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

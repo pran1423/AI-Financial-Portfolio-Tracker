@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:46:46.621750",
+    "overall_sentiment": "Negative",
+    "total_score": -1.6147,
+    "articles": [
+        {
+            "title": "ENPH Stock To $20?",
+            "description": "Enphase Energy\u2019s shares fell 12% in pre-market trading on Wednesday, April 23rd following the release of its first-quarter results that presented a dismal picture desp...",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/04/23/enph-stock-to-20/",
+            "source": "Forbes",
+            "publishedAt": "2025-04-23T12:23:12Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9739
+        },
+        {
+            "title": "Enphase Energy, Inc. (ENPH): One of the Best Solar Energy Stocks to Buy According to Hedge Funds",
+            "description": "We recently published a list of the 11 Best Solar Energy Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where...",
+            "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-one-003204124.html",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-23T00:32:04Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Enphase Energy\u2019s (ENPH) \u201cSell\u201d Rating Reiterated at Citigroup",
+            "description": "Citigroup reissued their sell rating on shares of Enphase Energy (NASDAQ:ENPH \u2013 Free Report) in a research note published on Thursday morning, Marketbeat Ratings reports. Citigroup currently has a $47.00 price target on the semiconductor company\u2019s stock. Seve\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/20/enphase-energys-enph-sell-rating-reiterated-at-citigroup/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-20T07:00:49Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Enphase Energy, Inc. (ENPH): Among the Best Renewable Energy Stocks to Buy in 2025",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7481cd25-cf21-43cd-a017-8c8147493335",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-16T20:09:07Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.8813
+        },
+        {
+            "title": "Enphase Energy (ENPH) to Release Quarterly Earnings on Tuesday",
+            "description": "Enphase Energy (NASDAQ:ENPH \u2013 Get Free Report) will likely be posting its quarterly earnings results after the market closes on Tuesday, April 22nd. Analysts expect Enphase Energy to post earnings of $0.70 per share and revenue of $358.39 million for the quar\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/15/enphase-energy-enph-to-release-quarterly-earnings-on-tuesday/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-15T06:01:05Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Why Enphase Energy Inc. (ENPH) Went Down On Tuesday?",
+            "description": "In This Article:\nWe recently published a list of Tuesday\u2019s 10 Worst-Performing Stocks. In this article, we are going to take a look at where Enphase Energy Inc. (NASDAQ:ENPH) stands against other Tuesday\u2019s worst-performing stocks.\nA solar panel array stretche\u2026",
+            "url": "https://biztoc.com/x/f4e4a3fb84d32738",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-09T10:31:33Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.7427
+        },
+        {
+            "title": "Why Enphase Energy Inc. (ENPH) Went Down On Tuesday?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cec7821-9aa1-4fcc-beb7-58d412cf4005",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-09T10:16:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.7794
+        },
+        {
+            "title": "Is Enphase Energy, Inc. (ENPH) the Best Clean Energy Stock to Buy According to Billionaires?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ccc3dde1-4c7e-48c1-bb1e-40a1954d2a33",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-08T18:29:49Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer on Enphase Energy (ENPH) \u2013 \u201cNo Good News Coming, Sell!\u201d",
+            "description": "In This Article:\nWe recently published a list of Jim Cramer\u2019s Take on These 10 Stocks. In this article, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against other stocks that Jim Cramer discusses.\nOn Wednesday, Jim Cramer, th\u2026",
+            "url": "https://biztoc.com/x/7729ec050bc8bafc",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-04T14:56:38Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Jim Cramer on Enphase Energy (ENPH) \u2013 \u201cNo Good News Coming, Sell!\u201d",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b31c3221-b061-493a-a9eb-f13764f6c1ee",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-04T14:33:55Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

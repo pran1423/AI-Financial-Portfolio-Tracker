@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-25T03:44:16.922901",
+    "overall_sentiment": "Negative",
+    "total_score": -0.967,
+    "articles": [
+        {
+            "title": "Leerink Partnrs Issues Negative Forecast for CRSP Earnings",
+            "description": "CRISPR Therapeutics AG (NASDAQ:CRSP \u2013 Free Report) \u2013 Equities researchers at Leerink Partnrs decreased their Q1 2025 earnings per share (EPS) estimates for shares of CRISPR Therapeutics in a report released on Wednesday, April 16th. Leerink Partnrs analyst M.\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/19/leerink-partnrs-issues-negative-forecast-for-crsp-earnings/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-19T05:34:44Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.967
+        },
+        {
+            "title": "CRISPR Therapeutics\u2019 (CRSP) \u201cBuy\u201d Rating Reiterated at Needham & Company LLC",
+            "description": "Needham & Company LLC reaffirmed their buy rating on shares of CRISPR Therapeutics (NASDAQ:CRSP \u2013 Free Report) in a research note issued to investors on Wednesday morning,Benzinga reports. Needham & Company LLC currently has a $84.00 price objective on the st\u2026",
+            "url": "https://www.etfdailynews.com/2025/04/12/crispr-therapeutics-crsp-buy-rating-reiterated-at-needham-company-llc/",
+            "source": "ETF Daily News",
+            "publishedAt": "2025-04-12T06:50:49Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "timestamp": "2025-04-25T03:42:45.615355",
+    "overall_sentiment": "Negative",
+    "total_score": -1.3613,
+    "articles": [
+        {
+            "title": "A quirky cat with a larger-than-life personality",
+            "description": "Piccolo is only 8 months old, but brings incredible energy and exuberance wherever he goes.",
+            "url": "https://www.japantimes.co.jp/community/2025/04/24/our-lives/adoption-cat-piccolo/",
+            "source": "The Japan Times",
+            "publishedAt": "2025-04-24T00:30:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "\u2018Cat-flavoured\u2019 dog pies? Muzza\u2019s unleashes controversial new menu item",
+            "description": "Activist Anne Batley-Burton calls the pies 'absolutely disgusting'.",
+            "url": "https://www.nzherald.co.nz/lifestyle/cat-flavoured-dog-pies-muzzas-unleashes-controversial-new-menu-item/UXJUPL3O3BHKPENRMIY2G2OE2A/",
+            "source": "New Zealand Herald",
+            "publishedAt": "2025-04-23T23:27:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.701
+        },
+        {
+            "title": "tencentcloud-sdk-python-cat 3.0.1365",
+            "description": "Tencent Cloud Cat SDK for Python",
+            "url": "https://pypi.org/project/tencentcloud-sdk-python-cat/3.0.1365/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-23T20:45:04Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Big cat bites found on skeleton in Roman 'gladiator graveyard'",
+            "description": "New research suggests a skeleton which belonged to a gladiator was mauled by a lion or another big cat during combat.",
+            "url": "https://www.abc.net.au/news/science/2025-04-24/roman-gladiator-big-cat-lion-bite-marks-archaeology-teeth/105202234",
+            "source": "ABC News (AU)",
+            "publishedAt": "2025-04-23T20:00:00Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.6603
+        },
+        {
+            "title": "Cat pawrent turns to forum to decode why their aloof feline turns affectionate every time the litter box gets cleaned, theories range from gratitude to manipulation",
+            "description": "Hey, fellow feline enthusiasts. Let's talk about a particularly pungent phenomenon. You know that moment when your cat randomly turns into a purring cuddlebug for no reason? One cat pawrent turned to the internet to figure out why their typically aloof kitty \u2026",
+            "url": "https://cheezburger.com/40221189/cat-pawrent-turns-to-forum-to-decode-why-their-aloof-feline-turns-affectionate-every-time-the-litter",
+            "source": "Cheezburger.com",
+            "publishedAt": "2025-04-23T19:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "26 Absurd Cat Memes Invading Your Midweek Madness Like Aliens",
+            "description": "We all need some cat weirdness in our lives. Not just us, obviously, but every hooman out there. A daily dose of cat weirdness is a great way to help any boring and tattered day become more whimsical, silly, and fun. That's the magic of cats, they bring their\u2026",
+            "url": "https://cheezburger.com/40212229/26-absurd-cat-memes-invading-your-midweek-madness-like-aliens",
+            "source": "Cheezburger.com",
+            "publishedAt": "2025-04-23T18:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "Amazon - Purina ONE Natural Cat Food for Hairball Control, +PLUS Hairball Formula - 7 lb. Bag $7.98",
+            "description": "Amazon has this Purina ONE Natural Cat Food for Hairball Control, +PLUS Hairball Formula - 7 lb. Bag on sale for $7.98 or less after clipping the coupon and choosing subscribe & save. Be sure to log in to your Amazon account if you don\u2019t see the coupon. You w\u2026",
+            "url": "https://www.dealcatcher.com/deals/household/pets/purina-one-natural-cat-food-for-hairball-hairball-formula---bag-998437749",
+            "source": "Dealcatcher.com",
+            "publishedAt": "2025-04-23T17:13:18Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "24 Meowing Memes With Wholesome Aura Spreading Around Cat Cuteness",
+            "description": "We cannot think of a creature cuter than a cat. It's not only that cats as a whole are the cutest of all creatures, in the past, in the present, and probably in the future - it's also the fact that every cat is the cutest cat. Yes, our cat is the cutest cat -\u2026",
+            "url": "https://cheezburger.com/40212997/24-meowing-memes-with-wholesome-aura-spreading-around-cat-cuteness",
+            "source": "Cheezburger.com",
+            "publishedAt": "2025-04-23T17:00:00Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

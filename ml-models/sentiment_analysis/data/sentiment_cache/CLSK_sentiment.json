@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-25T03:43:07.548007",
+    "overall_sentiment": "Positive",
+    "total_score": 0.9235,
+    "articles": [
+        {
+            "title": "What\u2019s Happening With CLSK Stock?",
+            "description": "Investor optimism, potentially fueled by expectations of a de-escalation in the trade war with China, likely contributed to this increase.",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/04/23/whats-happening-with-clsk-stock/",
+            "source": "Forbes",
+            "publishedAt": "2025-04-23T13:00:20Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9235
+        },
+        {
+            "title": "Why CleanSpark Inc. (CLSK) Went Up On Tuesday?",
+            "description": "",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e06b63b-21df-4ea8-bb09-6878e59aae30",
+            "source": "Yahoo Entertainment",
+            "publishedAt": "2025-04-02T11:28:31Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-25T03:50:33.123632",
+    "overall_sentiment": "Negative",
+    "total_score": -2.9458,
+    "articles": [
+        {
+            "title": "IBM posts slight revenue increase, AI demand grows",
+            "description": "IBM's first quarter results for 2025 showed a slight revenue rise to US$14.54 billion, a 0.5% increase year over year and just above analysts' expectations of US$14.4 billion.",
+            "url": "https://www.digitimes.com/news/a20250424VL205/ibm-revenue-demand-2025-business.html",
+            "source": "Digitimes",
+            "publishedAt": "2025-04-24T03:29:01Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9537
+        },
+        {
+            "title": "Tesla, IBM, Chipotle, Texas Instruments, Alphabet: Why These 5 Stocks Are On Investors' Radars Today",
+            "description": "On Wednesday, U.S. stocks surged with the Dow Jones jumping over 419 points to 39,606.57. The NASDAQ climbed 2.5% to 16,708.05, and the S&P 500 increased by 1.7% to 5,375.86.\nThese are the top stocks that gained the attention of retail traders and investors t\u2026",
+            "url": "https://biztoc.com/x/c47b9bc4a78e6829",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-24T02:41:31Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "ibm-watsonx-gov 0.0.5",
+            "description": "IBM watsonx.governance SDK",
+            "url": "https://pypi.org/project/ibm-watsonx-gov/0.0.5/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-24T02:15:25Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "ibm-metrics-plugin 3.0.15",
+            "description": "IBM Watson OpenScale Metrics library",
+            "url": "https://pypi.org/project/ibm-metrics-plugin/3.0.15/",
+            "source": "Pypi.org",
+            "publishedAt": "2025-04-24T02:13:27Z",
+            "sentiment_label": "neutral",
+            "sentiment_score": 0.0
+        },
+        {
+            "title": "IBM dragged down by DOGE contract cancellation roulette",
+            "description": "IBM dragged down by DOGE contract cancellation roulette\nBig Blue downplays impact of Elon-gated cost-cutting\nIBM beat Wall Street's expectations for both revenue and income in the first quarter of 2025, but its stock price still dropped more than six percent \u2026",
+            "url": "https://biztoc.com/x/31bab19257f171d9",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-24T00:06:55Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9718
+        },
+        {
+            "title": "IBM dragged down by DOGE contract cancellation roulette",
+            "description": "Big Blue downplays impact of Elon-gated cost-cutting IBM beat Wall Street's expectations for both revenue and income in the first quarter of 2025, but its stock price still dropped more than six percent in after-hours trading.\u2026",
+            "url": "https://www.theregister.com/2025/04/23/ibm_q1_2025_doge/",
+            "source": "Theregister.com",
+            "publishedAt": "2025-04-23T23:59:29Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9649
+        },
+        {
+            "title": "IBM beats forecasts and says it\u2019s well-positioned to weather a trade war",
+            "description": "Expressing confidence that it can weather the winds of an uncertain economic climate, IBM Corp. today reported revenue and earnings that beat analysts\u2019 expectations and reaffirmed its guidance for the full fiscal year. First-quarter earnings of $1.60 per shar\u2026",
+            "url": "https://siliconangle.com/2025/04/23/ibm-beats-forecasts-says-well-positioned-weather-trade-war/",
+            "source": "SiliconANGLE News",
+            "publishedAt": "2025-04-23T23:07:13Z",
+            "sentiment_label": "positive",
+            "sentiment_score": 0.9502
+        },
+        {
+            "title": "IBM affected by DOGE cuts, downplays impact during Q1 earnings call",
+            "description": "Tech and consulting giant IBM was not immune to the Department of Government Efficiency\u2019s (DOGE) cuts.\nIBM had 15 of its federal contracts cancelled due to DOGE-related cuts during the first quarter of 2025, according to reporting from Reuters and Bloomberg. \u2026",
+            "url": "https://biztoc.com/x/3cb1d7a58639b48d",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T22:49:26Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9717
+        },
+        {
+            "title": "IBM effected by DOGE cuts, downplays impact during Q1 earnings call",
+            "description": "Tech and consulting giant IBM was not immune to the Department of Government Efficiency\u2019s (DOGE) cuts.\nIBM had 15 of its federal contracts cancelled due to DOGE-related cuts during the first quarter of 2025, according to reporting from Reuters and Bloomberg. \u2026",
+            "url": "https://biztoc.com/x/2dd1f6150b47f013",
+            "source": "Biztoc.com",
+            "publishedAt": "2025-04-23T22:38:08Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.9714
+        },
+        {
+            "title": "IBM effected by DOGE cuts, downplays impact during Q1 earnings call | TechCrunch",
+            "description": "IBM had 15 of its federal contracts cancelled in Q1 due to DOGE-related cuts, according to the company's CEO.",
+            "url": "https://techcrunch.com/2025/04/23/ibm-affected-by-doge-cuts-downplays-impact-during-q1-earnings-call/",
+            "source": "TechCrunch",
+            "publishedAt": "2025-04-23T22:34:01Z",
+            "sentiment_label": "negative",
+            "sentiment_score": -0.97
+        }
+    ]
+}
